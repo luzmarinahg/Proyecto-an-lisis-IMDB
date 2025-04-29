@@ -1,0 +1,521 @@
+actor_id,name,year_birthday,films_done,jobs,awards
+nm0893341,Lino Ventura,1919,"['El ejército de las sombras', 'Ascensor para el cadalso', 'Una dama y un bribón', 'Los miserables']","['Reparto', 'Banda sonora']",3
+nm0590452,Sandra Milo,1933,"['Fellini 8½', 'Giulietta de los espíritus', 'Adua y sus amigas', 'La entrevista']","['Reparto', 'Equipos adicionales']",6
+nm0000901,Jean-Paul Belmondo,1933,"['Pierrot, el loco', 'Léon Morin, sacerdote', 'Al final de la escapada', 'Casino Royale']","['Reparto', 'Producción', 'Especialistas']",6
+nm0197950,Marcel Dalio,1899,"['Sabrina', 'La regla del juego', 'Tener y no tener', 'Cómo robar un millón y...']","['Reparto', 'Equipos adicionales', 'Guion']",0
+nm0033929,Michel Ardan,Not found,"['Les bidasses en vadrouille', 'La grande nouba', 'A todo riesgo', 'La grande java']","['Reparto', 'Producción', 'Guion']",0
+nm0289842,Simone Desmaison,Not found,"['El rififi y las mujeres', 'A todo riesgo', 'El recreo', 'Plaisir du théâtre']","['Reparto', 'Guion']",0
+nm0617741,Michèle Méritz,1923,"['La guerra de los botones', 'A todo riesgo', 'El bello Sergio', 'Los primos']",['Reparto'],0
+nm0472020,Stan Krol,Not found,"['A todo riesgo', ""Jusqu'à plus soif""]",['Reparto'],0
+nm0449166,Evelyne Ker,1936,"['A nuestros amores', 'Au théâtre ce soir', 'La crécelle', 'A todo riesgo']",['Reparto'],0
+nm0773723,Betty Schneider,Not found,"['Paris nous appartient', 'A todo riesgo', 'Los fanáticos', 'Mi tío']",['Reparto'],0
+nm0593192,Cameron Mitchell,1918,"['El gran Chaparral', 'Cómo casarse con un millonario', 'Combate decisivo', 'Quiéreme o déjame']","['Reparto', 'Dirección', 'Guion']",3
+nm0527017,John Lupton,1928,"['Aeropuerto 1975', 'Julio César', 'Jesse James contra la hija de Frankenstein', 'Todos los hermanos eran valientes']",['Reparto'],1
+nm0110917,Steve Brodie,1919,"['Retorno al pasado', 'El motín del Caine', 'Prueba heroica', 'La invasión de las arañas gigantes']",['Reparto'],0
+nm0859183,Lyn Thomas,1929,"['Big Timber', 'Space Master X-7', 'Alaska Passage', 'Triple Trouble']",['Reparto'],0
+nm0288031,Ron Foster,1930,"['House of the Damned', 'Esta casa es una ruina', ""Ma Barker's Killer Brood"", 'The Guiding Light']",['Reparto'],0
+nm0486742,Paul Langton,1913,"['La dimensión desconocida', 'The Snow Creature', 'Fighting Back', 'El terror del más allá']","['Reparto', 'Banda sonora']",0
+nm0275987,Logan Field,Not found,"['Halloween 4: El regreso de Michael Myers', 'Pier 5, Havana', 'Los hombres de Harrelson', 'The Big Story']",['Reparto'],Walt Logan Field
+nm0129478,King Calder,1897,"['Time Table', 'The Best of Broadway', 'Martin Kane, Private Eye', 'La dimensión desconocida']",['Reparto'],0
+nm0408990,Jean Ingram,Not found,"['El agente Burke', 'Investigador submarino', 'Three Came to Kill', 'Sergeant Dead Head']",['Reparto'],0
+nm0038066,Jan Arvan,1913,"['La aventura del Poseidón', 'A 20 millones de millas de la Tierra', 'Soldiers of Fortune', 'Mi novio está loco, loco']",['Reparto'],0
+nm0473228,Hardy Krüger,1928,"['Un puente lejano', 'Hatari!', 'Barry Lyndon', 'El vuelo del Fénix']","['Reparto', 'Guion', 'Producción']",5
+nm0374919,Martin Held,1908,"['El almirante Canaris', 'Asfalto húmedo', 'Verdammt zur Sünde', 'El capitán Kopenick']",['Reparto'],6
+nm0000728,Mario Adorf,1930,"['El tambor de hojalata', 'Der große Bellheim', 'Der Schattenmann', 'Milán, calibre 9']","['Reparto', 'Guion', 'Dirección']",23
+nm0290955,Horst Frank,1929,"['Susurros de muerte', 'Haie und kleine Fische', 'El gato de 9 colas', 'Timm Thaler']",['Reparto'],1
+nm0885706,Ingrid van Bergen,1931,"['Túnel 28', 'Rosen für den Staatsanwalt', 'Was wissen Sie von Titipu?', 'Bewegte Männer']","['Reparto', 'Equipos adicionales', 'Banda sonora']",2
+nm0773150,Peer Schmidt,1926,"['Café Wernicke', 'El rally de Montecarlo y toda su zarabanda de antaño', 'Las confesiones del estafador Felix Krull', 'Abendkurs']","['Reparto', 'Banda sonora']",0
+nm0907267,Ernst Waldow,Not found,"['Hokuspokus', 'Affaire Blum', 'Die göttliche Jette', 'Si todos fuésemos ángeles']",['Reparto'],(un ataque al corazón)
+nm0871020,Cordula Trantow,1942,"['Hitler', 'El puente', 'Das Schloß', 'Besuch']","['Reparto', 'Dirección', 'Guion']",2
+nm0755775,Lu Säuberlich,Not found,"['Las dos caras del destino', ""Postlagernd: 'Turteltaube'"", 'Das Mädchen Juanita', 'Ein Frauenarzt klagt an']","['Reparto', 'Equipos adicionales']",Lu Sauberlich
+nm0415738,Wega Jahnke,Not found,"['Los Budenbrook', 'Der Tod läuft hinterher', 'Minna von Barnhelm', 'Las dos caras del destino']",['Reparto'],(causa no comunicada)
+nm0263929,Renate Ewert,1933,"['Mikosch, der Stolz der Kompanie', 'Mikosch im Geheimdienst', 'Agente 505, muerte en Beirut', 'Schlagerparade 1960']","['Reparto', 'Banda sonora']",0
+nm0943469,Klausjürgen Wussow,1929,"['La clínica de la Selva Negra', 'El arquero verde', 'Sergeant Berry', 'Flieger Ross']",['Reparto'],2
+nm0755697,Karl-Georg Saebisch,Not found,"['Krankensaal 6', 'König Richard II', 'Mein Freund Harvey', 'Der Geisterzug']",['Reparto'],Karl Georg Saebisch
+nm0017530,Thomas Alder,Not found,"['Operación Rubí Negro', 'Holiday in St. Tropez', 'Wir wollen niemals auseinandergehen', 'Schlagerparade 1960']","['Reparto', 'Dirección de la segunda unidad o asistencia a dirección']",0
+nm0299802,Ernst Fritz Fürbringer,1900,"['Titanic', 'Wallenstein', 'Sangre vienesa', 'Frau Warrens Gewerbe']","['Reparto', 'Equipos adicionales']",0
+nm0066487,Erica Beer,1925,"['Das Halstuch', 'El gran delito', 'Der letzte Walzer', 'Juicio en las nubes']",['Reparto'],0
+nm0003248,Fritz Rasp,1891,"['Metrópolis', 'La comedia de la vida', 'Charleys Tante', 'Lockspitzel Asew']",['Reparto'],1
+nm0034357,Eddi Arent,1925,"['El tesoro del lago de la plata', 'La carabina de plata', 'El valle de los héroes', 'El arquero verde']","['Reparto', 'Guion']",0
+nm0587582,Edith Mill,1925,"['Rivales por amor', 'Geliebtes Fräulein Doktor', 'Zwei Menschen', 'Nora']",['Reparto'],0
+nm0067176,Ulrich Beiger,1918,"['La gran evasión', 'Im Weissen Rössl', 'Los locos de la carretera', 'Percy Stuart']","['Reparto', 'Dirección', 'Equipos adicionales']",0
+nm0712731,Aldo Ray,1926,"['No somos ángeles', 'La impetuosa', 'Nimh: El mundo secreto de la señora Brisby', 'El robo al banco de Inglaterra']","['Reparto', 'Banda sonora']",1
+nm0783288,Elizabeth Sellars,1921,"['La condesa descalza', 'Forbidden Cargo', 'The Broken Horseshoe', 'The Shiralee']",['Reparto'],0
+nm0000564,Peter O'Toole,1932,"['Lawrence de Arabia', 'El león en invierno', 'Troya', 'Profesión: El especialista']","['Reparto', 'Producción', 'Dirección']",28
+nm0601476,Kieron Moore,1924,"['¿Hacia el fin del mundo?', ""Doctor Blood's Coffin"", 'La semilla del espacio', ""Darby O'Gill y el rey de los duendes""]","['Reparto', 'Dirección', 'Guion']",0
+nm0789185,Albert Sharpe,1885,"[""Darby O'Gill y el rey de los duendes"", 'Bodas reales', 'Brigadoon', 'Disneylandia']","['Reparto', 'Banda sonora']",0
+nm0866627,Joseph Tomelty,1910,"['La última noche del Titanic', 'Moby Dick', 'La espada de Lancelot', 'El déspota']","['Reparto', 'Guion', 'Equipos adicionales']",0
+nm0293661,Wolf Frees,1909,"['Doctor Zhivago', 'Der Andere', 'Operación Crossbow', 'The Green Buddha']",['Reparto'],0
+nm0494452,John Le Mesurier,1912,"['Un trabajo en Italia', 'El hermano más listo de Sherlock Holmes', 'La bahía de las esmeraldas', ""Dad's Army""]","['Reparto', 'Banda sonora']",1
+nm0539942,Miles Malleson,1888,"['Ocho sentencias de muerte', 'El perro de Baskerville', 'La importancia de llamarse Ernesto', 'El ladrón de Bagdad']","['Reparto', 'Guion']",1
+nm0330101,Colin Gordon,1911,"['La pantera rosa', 'Casino Royale', 'Departamento S', 'Círculo de peligro']","['Reparto', 'Banda sonora']",1
+nm0549773,María Elena Marqués,1926,"['La perla', 'El jardín de los cerezos', 'El rebelde (Romance de antaño)', 'Pueblito']","['Reparto', 'Equipos adicionales', 'Banda sonora']",1
+nm0265761,Eduardo Fajardo,1924,"['Django', 'La mansión de la niebla', 'Juego sucio en Panamá', 'Los gozos y las sombras']","['Reparto', 'Equipos adicionales']",2
+nm0013567,Luz María Aguilar,1935,"['Con quién andan nuestras hijas', 'Maldita ciudad (un drama cómico)', 'Alma de hierro', 'La furia del ring']",['Reparto'],3
+nm0529876,Carlos López Moctezuma,1909,"['El rebozo de Soledad', 'Canaima', 'Río Escondido', 'Furia roja']",['Reparto'],3
+nm0305517,Mauricio Garcés,1926,"['Don Juan 67', 'El renegado blanco', 'El barón del terror', 'Las tres perfectas casadas']","['Reparto', 'Banda sonora']",0
+nm2909247,Marina Banquells,Not found,['La Llorona'],['Reparto'],0
+nm0554819,Juan José Martínez Casado,1903,"['Santa', 'Misión al norte de Seul', 'Una gitana en La Habana', 'Mi tía de América']","['Reparto', 'Dirección', 'Dirección de la segunda unidad o asistencia a dirección']",0
+nm0738139,Emma Roldán,1890,"['La pasión según Berenice', 'Monja casada, virgen y mártir', 'El ahijado de la muerte', 'Romeo y Julieta']","['Reparto', 'Diseño de vestuario', 'Vestuario']",1
+nm0659270,Francisco Pando,Not found,"['La rebelión de los fantasmas', 'Caminos de ayer', 'Chachita la de Triana', 'La madrina del diablo']","['Reparto', 'Guion']",Jose Pando
+nm0722023,David Reynoso,1926,"['El mal', 'Blue Demon contra cerebros infernales', 'Seis días para morir', 'Domingo salvaje']","['Reparto', 'Dirección', 'Banda sonora']",David Reinoso
+nm0201638,Danielle Darrieux,1917,"['8 mujeres', 'Operación Cicerón', 'Sueños de príncipe', 'Las señoritas de Rochefort']","['Reparto', 'Música', 'Banda sonora']",8
+nm0041509,Michel Auclair,1922,"['La bella y la bestia', 'Chacal', 'Una cara con ángel', 'Justicia cumplida']","['Reparto', 'Equipos adicionales']",0
+nm0785771,Jean Servais,1910,"['Rififi', 'El día más largo', 'El placer', 'Los miserables']","['Reparto', 'Guion', 'Equipos adicionales']",0
+nm0350826,Raymond Gérôme,Not found,"['Chacal', 'Cómo destruir al más famoso agente secreto del mundo', 'Au théâtre ce soir', 'Meurtre en 45 tours']","['Reparto', 'Equipos adicionales', 'Dirección']",Raymond Gerome
+nm0142707,Mathilde Casadesus,Not found,"['El placer', 'El idiota', 'La dame aux camélias', 'Ce soir les jupons volent...']",['Reparto'],0
+nm0200434,Jacqueline Danno,Not found,"['Meurtre en 45 tours', ""L'inconnu de Shandigor"", ""C'est arrivé à Paris"", 'El espadachín diabólico']","['Reparto', 'Música', 'Banda sonora']",0
+nm0893834,Julien Verdier,1910,"['Les Thibault', 'Les misérables', 'Aux frontières du possible', 'El montacargas']",['Reparto'],(causa no comunicada)
+nm0615913,Bernard Musson,1925,"['Belle de jour (Bella de día)', 'Cómo destruir al más famoso agente secreto del mundo', 'El discreto encanto de la burguesía', ""D'Artagnan Junior""]","['Reparto', 'Equipos adicionales']",0
+nm0053884,Madeleine Barbulée,Not found,"['No te puedes fiar ni de la cigüeña', 'Solamente en verano', 'Los miserables', 'Le théâtre de la jeunesse']",['Reparto'],Madeleine Barbulee
+nm0518623,Ada Lonati,Not found,"['Meurtre en 45 tours', 'Sex-shop', 'No molestar, estoy matándome', ""L'engrenage""]",['Reparto'],Peggy Lonati
+nm0370144,Jack Hawkins,1910,"['El puente sobre el río Kwai', 'Ben-Hur', 'Zulú', 'La Liga de los caballeros']","['Reparto', 'Producción']",1
+nm0665902,Nigel Patrick,1912,"['El árbol de la vida', 'La Liga de los caballeros', 'Forbidden Cargo', 'Johnny X']","['Reparto', 'Dirección', 'Guion']",1
+nm0515193,Roger Livesey,1906,"['Vida y muerte del coronel Blimp', 'La Liga de los caballeros', 'A vida o muerte', 'El señor de Balantry']","['Reparto', 'Banda sonora']",1
+nm0000277,Richard Attenborough,1923,"['Jurassic Park (Parque Jurásico)', 'La gran evasión', 'Gandhi', 'El mundo perdido: Jurassic Park']","['Reparto', 'Producción', 'Dirección']",30
+nm0285302,Bryan Forbes,1926,"['Los cañones de Navarone', 'Plan siniestro', 'The Whisperers', 'A cara descubierta']","['Reparto', 'Guion', 'Dirección']",9
+nm0018776,Terence Alexander,1923,"['Waterloo', 'Bergerac', 'Portrait of Alison', 'Los vengadores']","['Reparto', 'Banda sonora']",0
+nm0083424,Norman Bird,1924,"['Maniac', 'El señor de los anillos', 'La Liga de los caballeros', 'Cash on Demand']",['Reparto'],0
+nm0178509,Robert Coote,1909,"['El fantasma y la señora Muir', 'A vida o muerte', 'Scaramouche', 'El prisionero de Zenda']","['Reparto', 'Banda sonora']",1
+nm0834320,Melissa Stribling,1926,"['Drácula', 'Los vengadores', 'Noose for a Lady', 'Wide Boy']",['Reparto'],0
+nm0892385,Tere Velázquez,1942,"['La rebelión de las sabinas', 'Corazón salvaje', 'Desafío en el asfalto', 'Santo en Anónimo mortal']",['Reparto'],0
+nm0006842,Julio Alemán,1933,"['La verdad oculta', 'Deuda de muerte', 'La muralla verde', 'Rocambole contra las mujeres arpías']","['Reparto', 'Producción', 'Banda sonora']",3
+nm0736342,Adriana Roel,1934,"['Anacrusa', 'No quiero dormir sola', 'Renuncia por motivos de salud', 'El extraño Retorno de Diana Salazar']",['Reparto'],2
+nm0215903,Rafael del Río,Not found,"['Casa de vecindad', 'Preciosa', 'La furia del ring', 'El fugitivo']",['Reparto'],Rafael Etienne
+nm0328112,Dacia González,Not found,"['Al diablo con los guapos', 'Mi querida Isabel', 'Apuesta por un amor', 'Santo y el águila real']",['Reparto'],2
+nm0771641,Fanny Schiller,1901,"['Cantaclaro', 'La mujer que yo amé', 'Santa', 'Las abandonadas']",['Reparto'],2
+nm0544443,Miguel Manzano,1907,"['Las glorias del gran Púas', 'Corazón salvaje', 'Corazón salvaje', 'Sobre las olas']",['Reparto'],2
+nm0282922,Leopoldo Salazar,Not found,"['Alto riesgo', 'Bajo la metralla', 'Guerreros de la jungla', 'Serenata en noche de luna']",['Reparto'],Polo Salasar
+nm0194107,Óscar Cuéllar,Not found,"['Poker de reinas', 'El vestido de novia', 'Los jóvenes', 'La ley de las pistolas']",['Reparto'],0
+nm0302625,Rosa María Gallardo,Not found,"['El barón del terror', 'De grueso calibre', 'La marca del muerto', 'Los invisibles']",['Reparto'],Rosa Ma. Gallardo
+nm0230416,Christian Doermer,1935,"['Huída a Berlin', 'Hoste heisse', 'Pimai', 'Peki']","['Reparto', 'Dirección', 'Producción']",2
+nm0466110,Susanne Korda,Not found,"['Das mittlere Fenster', 'Geisterkomödie', 'Huída a Berlin', 'Miranda']","['Reparto', 'Dirección de producción']",Susanne Korda-Kraetsch
+nm0812402,Narziß Sokatscheff,Not found,"['Huída a Berlin', 'Bob Morane', 'El fugitivo del tren de Berlín', 'Der Mönch mit der Peitsche']",['Reparto'],N. Sokatscheff
+nm0088538,Gerda Blisse,Not found,"['El tambor de hojalata', 'Cliff Dexter', 'Huída a Berlin', 'Rockys Messer']",['Reparto'],0
+nm0339538,Ralf Gregan,Not found,"['Kabillowitsch', ""Heute hau'n wir auf die Pauke"", 'Liebe zwischen Tür und Angel - Vertreterinnen-Report', 'Mehrmals täglich']","['Dirección', 'Guion', 'Reparto']",Ralph Gregan
+nm0375967,Joe Hembus,Not found,"['El paraíso del diablo', 'Bomber &amp; Paganini', 'Klimbim', 'Wunderland der Liebe - Der große deutsche Sexreport']","['Guion', 'Reparto']",0
+nm0473512,S. Kubitzky,Not found,['Huída a Berlin'],['Reparto'],0
+nm0577146,Karl Meixner,Not found,"['El testamento del Dr. Mabuse', 'Anekdoten um den alten Fritz', 'Der verzauberte Tag', 'El misterio de la embajada']",['Reparto'],(causa no comunicada)
+nm0863635,Reinhold Timm,Not found,"['Huída a Berlin', 'Playgirl', 'Heißer Sand auf Sylt', 'À belles dents']",['Reparto'],Reinhold W. Timm
+nm8876321,Wittigo von Einsiedel,Not found,['Huída a Berlin'],['Reparto'],0
+nm0176061,Eddie Constantine,1913,"['Lemmy contra Alphaville', 'El largo Viernes Santo', 'Este hombre es peligroso', 'Alemania año 90 nueve cero']","['Reparto', 'Dirección de fotografía y cámara', 'Composición']",0
+nm0480942,Bernadette Lafont,1938,"['El postre de la alegría', 'La maman et la putain', 'Máscaras', 'Las buenas chicas']","['Reparto', 'Dirección', 'Guion']",4
+nm0723827,Jean-Louis Richard,1927,"['Fahrenheit 451', 'La noche americana', 'La novia vestía de negro', 'Le corps de Diane']","['Reparto', 'Guion', 'Dirección']",1
+nm0335878,Pierre Grasset,1921,"['Rififi', ""Quand la ville s'éveille"", 'El heredero', 'Dos hombres en Manhattan']","['Reparto', 'Dirección', 'Guion']",0
+nm0128233,Rita Cadillac,1936,"['El submarino (Das Boot)', 'Servicio secreto', 'Gran jugada en la Costa Azul', 'Juventud a la intemperie']","['Reparto', 'Equipos adicionales', 'Banda sonora']",0
+nm0169007,Henri Cogan,Not found,"['Los 3 Mosqueteros', 'Ein Sarg aus Hongkong', 'Angélica, marquesa de los ángeles', 'Los barbudos']","['Reparto', 'Especialistas', 'Equipos adicionales']",0
+nm0078859,Mick Besson,Not found,"['Los rufianes', 'Les corsaires', 'Judoka, agente secreto', 'Servicio secreto']",['Reparto'],0
+nm4244673,Joseph Lizzani,Not found,['Servicio secreto'],['Reparto'],0
+nm0869100,Jean Toscan,Not found,"['Le moulin de Daudet', 'El comisario Maigret', 'El marginal', 'Servicio secreto']",['Reparto'],Jean Toscane
+nm0483827,Gracieux Lamparti,Not found,"['Servicio secreto', 'Sursis pour un espion', 'La belle et le champion', 'Les échos du cinéma']",['Reparto'],Gracieux Lamperti
+nm0744103,Eleonora Rossi Drago,1925,"['Verano violento', 'Las amigas', 'Un maldito embrollo', 'Camelia 2000']",['Reparto'],2
+nm0299014,Yvonne Furneaux,1926,"['Repulsión', 'La dolce vita', 'La momia', 'El señor de Balantry']","['Reparto', 'Banda sonora']",0
+nm0650753,Umberto Orsini,1934,"['La caída de los dioses', 'Emmanuelle 3: Adiós Emmanuelle', 'La Biblia: Salomón', 'Emmanuelle 2: La antivirgen']",['Reparto'],2
+nm0308523,Riccardo Garrone,1926,"['La dolce vita', 'La cena', 'La mafia mi fa un baffo', 'Salambo']","['Reparto', 'Equipos adicionales', 'Guion']",1
+nm0154804,Andrea Checchi,1916,"['La señora sin camelias', 'La máscara del demonio', 'Sucedió así', 'Due lettere anonime']","['Reparto', 'Equipos adicionales']",3
+nm0267838,Alberto Farnese,1926,"['Los hijos de nadie', 'La venganza de Sandokan', 'Los dos gladiadores', 'El retorno de Maciste']",['Reparto'],0
+nm0119411,Aldo Bufi Landi,1923,"['En tercera persona', 'I magliari', 'Don Chisciotte e Sancio Panza', 'La presidenta']","['Reparto', 'Equipos adicionales']",0
+nm0266742,Fanfulla,1913,"['Fellini Satiricón', 'El hijo del Corsario Rojo', 'La intriga', 'Omicidio per appuntamento']",['Reparto'],1
+nm0615809,Vincenzo Musolino,Not found,"['¿Por qué seguir matando?', 'Chiedi perdono a Dio... non a me', 'Quintana', 'Non aspettare Django, spara']","['Reparto', 'Guion', 'Producción']",Glen Vincent Davis
+nm0199337,Peter Dane,Not found,"['Quincy', 'Guapa, ardiente y peligrosa', 'Ciudad violenta', 'El cobra']",['Reparto'],Constance Dugovic
+nm0733343,Germán Robles,1929,"['Pasión', 'El vampiro', 'La maldición de Nostradamus', 'La sangre de Nostradamus']","['Reparto', 'Dirección']",2
+nm0812929,Domingo Soler,1900,"['La barraca', 'Del rancho a la capital', 'El padre Morelos', 'Los miserables']","['Reparto', 'Guion']",1
+nm0023134,Aurora Alvarado,Not found,"['Culpas ajenas', 'Corona de lágrimas', 'El dolor de amar', 'La marca del muerto']",['Reparto'],0
+nm0544329,Manuel Vergara 'Manver',Not found,"['Neutrón contra el Dr. Caronte', 'Las aventuras del guardían', 'Frente al destino', 'La máscara de jade']",['Reparto'],M. Vergara 'Mamber'
+nm0142966,Manuel Casanueva,Not found,"['Hermoso ideal', 'Una piedra en el zapato', 'Morir de pie', 'El corazón y la espada']","['Reparto', 'Equipos adicionales']",M. Casanueva
+nm0232375,Manuel Dondé,1906,"['El tesoro de Sierra Madre', 'Cuatro contra el mundo', 'Enamorada', 'El libro de piedra']","['Reparto', 'Dirección de casting', 'Equipos adicionales']",3
+nm0033262,Roberto Araya,Not found,"['La maldición de Nostradamus', 'Santo contra los villanos del ring', 'La muerte pasa lista', 'La noche del jueves']",['Reparto'],0
+nm0729403,Reynaldo Rivera,Not found,"['La maldición de Nostradamus', 'Mary, Mary, Bloody Mary', 'Por el mismo camino', 'Pistolas de oro']",['Reparto'],0
+nm0838532,Amado Zumaya,Not found,"['María Isabel', 'Ora sí tenemos que ganar', 'El amor de María Isabel', 'Llámenme Mike']",['Reparto'],1
+nm0389537,Jack Hogan,1929,"['Hazañas bélicas', 'Sierra', 'Investigador submarino', 'Magnum, P.I.']","['Reparto', 'Casting', 'Dirección de casting']",0
+nm0448483,June Kenney,1933,"['La araña', 'La rebelión de los muñecos', 'Bloodlust!', 'Teenage Doll']",['Reparto'],0
+nm0046359,John Baer,1923,"['Terry and the Pirates', 'No somos ángeles', 'Night of the Blood Beast', 'Recuerde usted']",['Reparto'],0
+nm0658250,Gregg Palmer,1927,"['El último pistolero', 'Regreso del infierno', 'El gran Jack', 'Obsesión']",['Reparto'],0
+nm0925587,Will J. White,1925,"['Almas de metal', 'Suspense... hora cero', 'Misión: Imposible', 'Maverick']",['Reparto'],0
+nm0744841,Gene Roth,1903,"['La araña', 'La dimensión desconocida', 'El experimento del Dr. Zagros', 'Pies and Guys']","['Reparto', 'Banda sonora']",0
+nm0895259,Bruno VeSota,1922,"['El pantano diabólico', 'Cross Question', 'La resaca', 'Invasion of the Star Creatures']","['Reparto', 'Dirección', 'Guion']",0
+nm0083345,Billie Bird,1908,"['16 velas', 'Loca academia de policía 4: Los ciudadanos se defienden', 'Solo en casa', 'Daniel el travieso']","['Reparto', 'Banda sonora']",0
+nm0412443,Tommy Ivo,1936,"['Margie', 'Ghost of Dragstrip Hollow', 'El volcán perdido', 'The Adventures of Jim Bowie']","['Reparto', 'Especialistas', 'Equipos adicionales']",0
+nm0867963,Hal Torey,Not found,"['La araña', 'The Cosmic Man', 'Invasores invisibles', 'Valley of the Redwoods']",['Reparto'],(causa no comunicada)
+nm0333807,Wilton Graff,1903,"['Bloodlust!', 'Bulldog Drummond Strikes Back', 'Lili', 'El zorro de los océanos']","['Reparto', 'Banda sonora']",0
+nm0111754,Walter Brooke,1914,"['El graduado', 'Tora! Tora! Tora!', 'Bloodlust!', 'En nombre de la ley']",['Reparto'],0
+nm0001658,Robert Reed,1932,"['La tribu de los Brady', 'The Brady Bunch Variety Hour', 'Hombre rico, hombre pobre', 'Raíces']","['Reparto', 'Dirección', 'Banda sonora']",4
+nm0675580,Eugene Persson,1934,"['La araña', 'Bloodlust!', 'Dutchman', 'The Party Crashers']","['Reparto', 'Producción']",0
+nm0520302,Joan Lora,1936,"['Bloodlust!', 'Lure of the Swamp', 'Unwed Mother', 'Escuela de señoritas']",['Reparto'],0
+nm0666439,Troy Patterson,Not found,"['Bloodlust!', 'La araña', 'La rebelión de los muñecos', 'Speed Crazy']",['Reparto'],0
+nm0154412,Lilyan Chauvin,1925,"['Depredador 2', 'Soldado universal', 'Noche de paz, noche de muerte', 'Atrápame si puedes']","['Reparto', 'Dirección', 'Guion']",1
+nm0355355,Bobby Hall,Not found,"['Night Call Nurses', 'Mannix', 'Black eye', 'Violencia en Las Vegas']",['Reparto'],0
+nm0177806,Bill Coontz,1917,"['Convoy', 'Plunderers of Painted Flats', 'La hija de Frankenstein', 'Big Daddy']","['Reparto', 'Especialistas', 'Equipos adicionales']",0
+nm0183764,Hazel Court,1926,"['La maldición de Frankenstein', 'La máscara de la muerte roja', 'El hombre que podía engañar a la muerte', 'El cuervo']",['Reparto'],0
+nm0402842,Ian Hunter,1900,"['Robin de los bosques', 'El extraño caso del Dr. Jekyll', 'El ring', 'La pequeña princesita']","['Reparto', 'Banda sonora']",0
+nm0912915,Kenneth J. Warren,1929,"['Mystery and Imagination', 'Viento en las velas', ""Doctor Blood's Coffin"", 'Terror en el fondo del mar']",['Reparto'],0
+nm0493218,Gerald Lawson,1897,"['La momia', ""Doctor Blood's Coffin"", 'St. Ives', 'Armchair Theatre']","['Reparto', 'Guion']",0
+nm0425102,Fred Johnson,1899,"['Cuento de Navidad', ""Doctor Blood's Coffin"", 'Martin Luther', 'La maldición de Frankenstein']",['Reparto'],0
+nm0362522,Paul Hardtmuth,1888,"['La maldición de Frankenstein', ""Doctor Blood's Coffin"", 'Saturday Playhouse', 'Television World Theatre']","['Reparto', 'Guion']",Paul Hardmuth
+nm0830889,Paul Stockman,Not found,"[""Doctor Blood's Coffin"", 'The Six Proud Walkers', 'La maldición de la calavera', 'Penny and the Pownall Case']",['Reparto'],0
+nm0022575,Andy Alston,Not found,"[""Doctor Blood's Coffin"", 'Los vengadores', 'Armchair Theatre']",['Reparto'],0
+nm1829233,Ruth Lee,Not found,"['Three on a Spree', 'Walter and Connie']",['Reparto'],1
+nm0143599,Johnny Cash,1932,"['The Johnny Cash Show', 'The Hunted (La presa)', 'En la cuerda floja', 'La diligencia']","['Music Artist', 'Música', 'Reparto']",42
+nm0940579,Donald Woods,1906,"['The Case of the Stuttering Bishop', 'La ciudad siniestra', 'Alarma en el Rhin', 'Los trece fantasmas']","['Reparto', 'Banda sonora']",1
+nm0033692,Cay Forester,1921,"['Con las horas contadas', 'Five Minutes to Live', 'Canon City', 'El turbulento Distrito 87']","['Reparto', 'Guion', 'Banda sonora']",0
+nm0446052,Pamela Mason,1916,"['Todo lo que usted siempre quiso saber sobre el sexo* pero nunca se atrevió a preguntar', 'Lady Possessed', 'Conocí a un asesino', 'Amor a la americana']","['Reparto', 'Guion']",0
+nm0912138,Midge Ware,1927,"['Untamed Women', 'Ben Casey', 'Five Minutes to Live', 'El rey del juego']",['Reparto'],0
+nm0851861,Vic Tayback,1930,"['Alicia', 'Alicia ya no vive aquí', 'Todos los perros van al cielo', 'Bullitt']","['Reparto', 'Dirección', 'Banda sonora']",2
+nm0000165,Ron Howard,1954,"['Arrested Development', 'El último pistolero', 'Una mente maravillosa', 'Apolo 13']","['Producción', 'Reparto', 'Guion']",47
+nm0871419,Merle Travis,1917,"['Gracias por fumar', 'Joe contra el volcán', 'De aquí a la eternidad', 'Galloping Thunder']","['Reparto', 'Guion', 'Música']",3
+nm0889540,Norma Varden,1898,"['Los caballeros las prefieren rubias', 'Extraños en un tren', 'Sonrisas y lágrimas', 'Testigo de cargo']","['Reparto', 'Banda sonora']",0
+nm0453998,Leslie Kimmell,Not found,"['Cavalcade of America', 'The Adventures of Jim Bowie', 'La casa del río', 'Five Minutes to Live']",['Reparto'],0
+nm0001088,Peter Cushing,1913,"['La guerra de las galaxias', 'Drácula', 'La maldición de Frankenstein', 'Pánico en el Transiberiano']","['Reparto', 'Guion', 'Arte']",5
+nm0603682,André Morell,1909,"['Ben-Hur', 'El puente sobre el río Kwai', 'Mahoma, el mensajero de Dios', 'El perro de Baskerville']",['Reparto'],0
+nm0894710,Richard Vernon,1925,"['James Bond contra Goldfinger', '¡Qué noche la de aquel día!', 'La pantera rosa ataca de nuevo', 'Guía del autoestopista galáctico']","['Reparto', 'Banda sonora']",0
+nm0832325,Kevin Stoney,1921,"['Emmerdale', 'Cash on Demand', 'The Mill on the Floss', 'The Secret Kingdom']","['Reparto', 'Composición', 'Sonido']",0
+nm0522887,Barry Lowe,Not found,"['Cash on Demand', 'Opportunity Murder', 'Up the Creek', 'Moonbase 3']",['Reparto'],0
+nm0789221,Edith Sharpe,1894,"['Cash on Demand', 'The Guinea Pig', 'Happy Is the Bride', 'Brothers in Law']",['Reparto'],0
+nm0197396,Lois Daine,1941,"['Cash on Demand', 'ITV Playhouse', 'Cumbres borrascosas', 'Hell Is a City']",['Reparto'],0
+nm0371815,Alan Haywood,Not found,"[""Smuggler's Bay"", 'Doctor Who', 'Richard the Lionheart', 'Los vengadores']",['Reparto'],(un ataque al corazón)
+nm0129023,Jimmy Cains,Not found,['Assignment Redhead'],['Reparto'],0
+nm0752246,Wolf Ruvinskis,1921,"['Neutrón, el enmascarado negro', 'Neutrón contra el criminal sádico', 'Neutrón contra el Dr. Caronte', 'Los autómatas de la muerte']","['Reparto', 'Producción']",1
+nm0799108,Armando Silvestre,1926,"['Dos mulas y una mujer', 'La horripilante bestia humana', 'La mujer murcielago', 'Las luchadoras contra la momia']",['Reparto'],0
+nm0709176,Roberto Ramírez Garza,Not found,"['El buen ladrón', 'Neutrón, el enmascarado negro', 'La venganza de las mujeres vampiro', 'Neutrón contra el Dr. Caronte']",['Reparto'],1
+nm0484401,Rodolfo Landa,Not found,"['Neutrón, el enmascarado negro', 'El rebozo de Soledad', 'La sombra vengadora', 'Neutrón contra el criminal sádico']","['Reparto', 'Producción']",(Alzheimer)
+nm0111610,Claudio Brook,1927,"['El ángel exterminador', 'Simón del desierto', '007: Licencia para matar', 'Cronos']","['Reparto', 'Banda sonora']",2
+nm0852488,Jack Taylor,1936,"['Conan, el bárbaro', 'La novena puerta', 'Mil gritos tiene la noche', 'El doctor Mabuse']","['Reparto', 'Guion', 'Equipos adicionales']",2
+nm0277364,Ernesto Finance,1891,"['Neutrón, el enmascarado negro', 'El automóvil gris', 'Los autómatas de la muerte', 'Canto a mi tierra']",['Reparto'],(causa no comunicada)
+nm0482731,David Lama,1923,"['Neutrón, el enmascarado negro', 'Dinamita Kid', 'Los autómatas de la muerte', 'Lo que no se puede perdonar!..']","['Reparto', 'Música', 'Banda sonora']",0
+nm2431372,Los Tres Ases,Not found,"['La Purga: Infinita', 'Revenge (Venganza)', 'Tiro mortal', 'Neutrón, el enmascarado negro']","['Reparto', 'Música', 'Banda sonora']",0
+nm0300623,Analía Gadé,1931,"['Las melancólicas', 'El ojo del huracán', 'Mil millones para una rubia', 'Madame Sans-Gene']","['Reparto', 'Banda sonora']",4
+nm0273404,Arturo Fernández,1929,"['Truhanes', 'Los cuervos', '¡Cómo sois las mujeres!', 'La viudita naviera']",['Reparto'],7
+nm0215731,Eulália del Pino,Not found,"['Santo contra el doctor Muerte', 'Diego Corrientes', 'La mentira tiene cabellos rojos', 'Sol e Toiros']","['Reparto', 'Equipos adicionales']",Eulalia Del Pino
+nm0334644,Laura Granados,Not found,"['Las noches de Monsieur Max', 'La mentira tiene cabellos rojos', 'Rififí en la ciudad', 'Juego de hombres']",['Reparto'],0
+nm0515881,Carles Lloret,Not found,"['Estambul 65', 'La mentira tiene cabellos rojos', 'Un tesoro en el cielo', 'La cárcel de cristal']",['Reparto'],Carlos Lloret
+nm0703318,Milo Quesada,1930,"['Los caballeros del cielo', 'La víctima número diez', 'Mi último tango', 'El proceso de las brujas']","['Reparto', 'Banda sonora']",0
+nm0590158,Antonio Molino Rojo,1926,"['El bueno, el feo y el malo', 'Hola... señor Dios', 'Seis calientes suecas en Ibiza', 'Emma, puertas oscuras']","['Reparto', 'Producción', 'Dirección']",0
+nm0282887,Marta Flores,1913,"['Estambul 65', 'Diabla', 'La mentira tiene cabellos rojos', 'La hija del circo']","['Reparto', 'Dirección de casting', 'Casting']",1
+nm0422859,Antonio Jiménez Escribano,1902,"['O.K. Yevtushenko', 'Residencia para espías', 'La esclava del paraíso', 'Los cuatreros']","['Reparto', 'Guion']",A. Giménez Escribano
+nm0479489,José María Labernié,Not found,"['Historias para no dormir', 'Siempre te amaré', 'La mentira tiene cabellos rojos', 'Navajeros']",['Reparto'],J.Mª. Labernie
+nm0001588,Jack Palance,1919,"['Cowboys de ciudad', 'Raíces profundas', 'El desprecio', 'Tango y Cash']","['Reparto', 'Dirección', 'Dirección de la segunda unidad o asistencia a dirección']",11
+nm1384743,Tina Di Carlo,Not found,['Il criminale'],['Reparto'],0
+nm0709951,Salvo Randone,1906,"['Fellini Satiricón', 'Los días contados', 'El asesino', 'Historias extraordinarias']",['Reparto'],3
+nm0264770,Franco Fabrizi,1916,"['Los inútiles', 'Ginger y Fred', 'Muerte en Venecia', 'Un maldito embrollo']","['Reparto', 'Equipos adicionales']",1
+nm0524939,Vicky Ludovici,Not found,"['Cinco marinos contra cien chicas', 'La vita provvisoria', 'Il criminale', 'Agosto, donne mie non vi conosco']",['Reparto'],Vicky Ludovisi
+nm0491298,Mario Laurentino,Not found,"['La mujer del lago', 'Resurrezione', 'Los dos oficiales', ""Caccia all'uomo""]",['Reparto'],0
+nm0729866,Alfredo Rizzo,1902,"['Vacaciones en Roma', 'Alessia, un volcán bajo la piel', 'Carnalidad', 'Pecados carnales de una campesina']","['Reparto', 'Dirección', 'Guion']",0
+nm0716577,Serge Reggiani,1922,"['El gatopardo', 'París, bajos fondos', 'Los miserables', 'El confidente']","['Reparto', 'Equipos adicionales', 'Banda sonora']",0
+nm0220852,Jean Desailly,1920,"['La piel suave', 'La mort de Belle', ""On ne badine pas avec l'amour"", 'Claudine']","['Reparto', 'Dirección', 'Producción']",1
+nm0499151,René Lefèvre,1898,"['Opéra-musette', 'Los 5 caballeros malditos', 'Knock, ou le triomphe de la médecine', 'Angélique et le roy']","['Reparto', 'Guion', 'Dirección de la segunda unidad o asistencia a dirección']",0
+nm0194062,Marcel Cuvelier,Not found,"['Ascensor para el cadalso', 'El comisario Maigret', ""Les dossiers de l'écran"", 'El confidente']",['Reparto'],0
+nm0210052,Philippe March,1924,"['A todo riesgo', 'Los 3 Mosqueteros', 'Rouletabille', 'Marie-Antoinette']","['Reparto', 'Guion']",0
+nm0197917,Fabienne Dali,1941,"['París-Estambul sin regreso', 'Supersiete llama al Cairo', 'El confidente', 'Cin cin... cianuro']",['Reparto'],0
+nm0377306,Monique Hennessy,Not found,"['El confidente', 'Dos hombres en Manhattan', 'Léon Morin, sacerdote']",['Reparto'],0
+nm0836051,Carl Studer,1918,"['El proceso', 'El confidente', 'La rubia de Pekín', 'Los felinos']",['Reparto'],0
+nm0524856,Christian Lude,Not found,"['El confidente', 'La dame aux camélias', 'Cartas desde mi molino', 'Agence matrimoniale']",['Reparto'],0
+nm0757663,Abel Salazar,1917,"['Los adolescentes', 'El barón del terror', 'Valentín de la Sierra', 'Tres hermanos']","['Reparto', 'Producción', 'Dirección']",0
+nm0920628,Ariadne Welter,Not found,"['Verano salvaje', ""The Devil's Hand"", 'Las mujeres panteras', 'Mi querida Isabel']","['Reparto', 'Vestuario']",1
+nm0798270,David Silva,1917,"['El Topo', 'Campeón sin corona', 'Libertad o muerte', 'Esquina, bajan...!']","['Reparto', 'Producción']",1
+nm0032802,Luis Aragón,Not found,"['Cuna vacía', 'El medio pelo', 'Gente sin historia', 'El Dios de barro']","['Reparto', 'Dirección', 'Guion']",Luis Aragon
+nm0347242,Ofelia Guilmáin,1921,"['El ángel exterminador', 'Celestina', 'Las troyanas', 'Días sin luna']",['Reparto'],3
+nm0136579,René Cardona,1906,"['Santa Claus', 'La horripilante bestia humana', 'Don Juan Tenorio', 'El asesino invisible']","['Reparto', 'Dirección', 'Guion']",1
+nm0737944,Rubén Rojo,1922,"['Soledad', 'Rey de reyes', 'Mar sangriento', 'Alejandro el Magno']","['Reparto', 'Guion']",1
+nm0631287,Carlos Nieto,Not found,"['Blue Demon destructor de espias', 'La mano que aprieta', 'Con licencia para matar', 'Chanoc']","['Reparto', 'Equipos adicionales']",1
+nm0084428,Biswajeet Chatterjee,1936,"['Do Dil', 'Paisa Ya Pyar', 'Kahtey Hain Mujhko Raja', 'Raktatilak']","['Reparto', 'Dirección', 'Producción']",1
+nm0716851,Waheeda Rehman,1938,"['Guide', 'Leyenda de un amor inmortal', 'Reshma Aur Shera', 'Teesri Kasam']","['Reparto', 'Música']",10
+nm0471443,Manmohan Krishna,1922,"['Dhool Ka Phool', 'Daag: A Poem of Love', 'Mazdoor Zindabaad', 'Naya Daur']","['Reparto', 'Dirección', 'Guion']",1
+nm0534501,Madan Puri,1915,"['Mr. X in Bombay', 'Ek Raat', 'Samadhi', 'Kashmir Ki Kali']",['Reparto'],0
+nm0756950,Sajjan,1921,"['Kabuliwala', 'Talaaq', 'Raksha', 'Masoom']",['Reparto'],Sajan
+nm0783996,Asit Kumar Sen,1917,"['Anand', 'Mamta', 'Apradhi Kaun?', 'Parivar']","['Reparto', 'Dirección']",1
+nm0802364,Lata Sinha,Not found,"['Suhagan', 'Bhaiyya', 'Raja Jani', 'Bees Saal Baad']",['Reparto'],0
+nm0222743,Dev Kishan,Not found,"['Anand', 'Bandh Darwaza', 'Maha Chor', 'Bees Saal Baad']","['Reparto', 'Guion', 'Música']",Devkishan
+nm1543376,Mira Mukherjee,Not found,['Bees Saal Baad'],['Reparto'],0
+nm1540984,Ranu,Not found,"['Bees Saal Baad', 'Sunghursh', 'Anuradha']",['Reparto'],0
+nm0360889,Joachim Hansen,1930,"['Los niños del Brasil', 'Ha llegado el águila', 'El puente de Remagen', 'Vientos de guerra']",['Reparto'],0
+nm0000919,Senta Berger,1941,"['Unter Verdacht', 'Kir Royal', 'Emboscada a Matt Helm', 'Frau Böhm sagt Nein']","['Reparto', 'Producción', 'Banda sonora']",23
+nm0718422,Hans Reiser,1919,"['La gran evasión', 'Zwei Münchner in Hamburg', 'Der Wittiber', 'Die Zeit und die Conways']","['Reparto', 'Banda sonora']",0
+nm0824284,Leonard Steckel,Not found,"['Die Venus vom Tivoli', 'El capitán Kopenick', 'Bieder der Flieger', 'Palace Hotel']","['Reparto', 'Dirección', 'Guion']",Leonhard Steckel
+nm0398193,Chris Howland,1928,"['En el imperio del mal', 'El salvaje Kurdistán', 'El ataque de los kurdos', 'Bellezas en Auto-Stop']","['Reparto', 'Guion', 'Producción']",0
+nm0814016,Helga Sommerfeld,1941,"['Persecución a un espía', 'Anónima de asesinos', ""Da Berlino l'apocalisse"", '...und ewig knallen die Räuber']","['Reparto', 'Banda sonora']",0
+nm0496593,Stanislav Ledinek,Not found,"['Die Dreigroschenoper', 'El arquero verde', 'Der Tod läuft hinterher', 'Robin Hood, der edle Räuber']","['Reparto', 'Equipos adicionales', 'Banda sonora']",Stanislav Ledineck
+nm0410099,Elfriede Irrall,1938,"['Abschied - Brechts letzter Sommer', 'Madame Bovary', 'Seltsames Zwischenspiel', 'Die Spur der Leidenschaft']",['Reparto'],Elfriede Irral
+nm0075678,Zeev Berlinsky,Not found,"[""Kuni Leml B'Tel Aviv"", ""Kuni Leml B'Kahir"", 'El diabólico Dr. Mabuse', 'El misterio de la maleta negra']",['Reparto'],0
+nm0906662,Kurt Waitzmann,Not found,"['Tim Frazer', 'Es ist soweit', 'Es geschah in Berlin', 'Cliff Dexter']","['Reparto', 'Banda sonora']",(causa no comunicada)
+nm0000060,Gregory Peck,1916,"['Matar a un ruiseñor', 'Recuerda', 'Vacaciones en Roma', 'Los niños del Brasil']","['Reparto', 'Producción', 'Equipos adicionales']",36
+nm0000053,Robert Mitchum,1917,"['Retorno al pasado', 'El día más largo', 'La noche del cazador', 'Duelo en el Atlántico Norte']","['Reparto', 'Producción', 'Guion']",11
+nm0000917,Polly Bergen,1930,"['Cry-Baby (El lágrima)', 'El cabo del terror', 'Playhouse 90', 'Besos para mi presidente']","['Reparto', 'Equipos adicionales', 'Guion']",1
+nm0552700,Lori Martin,1947,"['El cabo del terror', 'National Velvet', 'La jauría humana', 'La ley de las armas']",['Reparto'],0
+nm0000842,Martin Balsam,1919,"['Todos los hombres del presidente', 'Psicosis', '12 hombres sin piedad', 'El payaso de la ciudad']",['Reparto'],3
+nm0472816,Jack Kruschen,1922,"['El apartamento', 'La guerra de los mundos', 'El último viaje', 'Pijama para dos']","['Reparto', 'Banda sonora']",1
+nm0001699,Telly Savalas,1922,"['Kojak', '007 al servicio secreto de su Majestad', 'Los violentos de Kelly', 'Pánico en el Transiberiano']","['Reparto', 'Dirección', 'Guion']",8
+nm0153691,Barrie Chase,1933,"['El cabo del terror', 'El mundo está loco, loco, loco, loco', 'Martes de carnaval', 'El vuelo del Fénix']","['Reparto', 'Equipos adicionales', 'Banda sonora']",0
+nm0173815,Paul Comi,1932,"['Howard... un nuevo héroe', 'El coloso en llamas', 'La rebelión de los simios', 'El cabo del terror']",['Reparto'],0
+nm0571173,John McKee,Not found,"['El cabo del terror', '1941', 'El hombre más duro', 'Horizontes de grandeza']","['Reparto', 'Especialistas']",0
+nm0861312,Chris Warfield,1927,"['Sheer Panties', 'Fulfillment', 'Purely Physical', 'Garters and Lace']","['Reparto', 'Producción', 'Dirección']",0
+nm0292229,Sally Fraser,1932,"['La guerra de la bestia gigante', 'Conquistaron el mundo', 'La araña', 'Shower of Stars']",['Reparto'],0
+nm0285204,Dick Foote,Not found,"['The Book of Acts Series', 'Dangerous Charter', 'La máscara de los Borgia', 'Sideshow']","['Reparto', 'Banda sonora']",0
+nm0286987,Peter Forster,1920,"['Huida del planeta de los simios', 'Mannix', 'Dangerous Charter', ""Shirley Temple's Storybook""]",['Reparto'],0
+nm0151334,Chick Chandler,1905,"['El mundo está loco, loco, loco, loco', 'Lightning Strikes Twice', 'Seven Doors to Death', 'Three of a Kind']","['Reparto', 'Cámara y electricidad', 'Localización']",0
+nm0455389,Wright King,1923,"['El planeta de los simios', 'Un tranvía llamado Deseo', 'La dimensión desconocida', 'McCloud']",['Reparto'],0
+nm0589594,Carl Milletaire,Not found,"['The Fighting Chance', 'Roma, mi amor', 'The Living Christ Series', 'La trampa']",['Reparto'],0
+nm0176260,Steve Conte,1920,"['The Book of Acts Series', 'Gene Autri', 'La resurrección del senador Wheeler', 'Dangerous Charter']",['Reparto'],0
+nm0953437,John Zaremba,1908,"['A 20 millones de millas de la Tierra', 'La Tierra contra los platillos volantes', 'El túnel del tiempo', 'Alfred Hitchcock presenta']",['Reparto'],0
+nm0681740,John Pickard,1913,"['Valor de ley', 'La dimensión desconocida', 'El túnel del tiempo', 'Hoguera de odios']",['Reparto'],0
+nm0236621,Heinz Drache,1923,"['Ein Sarg aus Hongkong', 'El pañuelo asesino', 'Das Halstuch', 'Gimpel, maestro de espías']","['Reparto', 'Equipos adicionales']",1
+nm0509776,Albert Lieven,1906,"['Frieda', 'Los cañones de Navarone', 'Coche cama a Trieste', 'Wie ein Blitz']",['Reparto'],0
+nm0245231,Eckart Dux,1926,"['Die lustigen Weiber von Windsor', 'Hamburg Transit', 'Das Halstuch', 'Der Kurier der Kaiserin']","['Reparto', 'Equipos adicionales']",0
+nm0511704,Erwin Linder,Not found,"['Hans im Glück', 'Das Halstuch', 'Jeanne oder Die Lerche', 'Die Spieler']","['Reparto', 'Equipos adicionales']",0
+nm0873549,Margot Trooger,1923,"['Das Halstuch', 'El brujo', 'Rosen im Herbst', ""Jeanne D'Arc auf dem Scheiterhaufen""]",['Reparto'],2
+nm0850096,Horst Tappert,1923,"['Derrick', 'Das Halstuch', 'Der Engel, der seine Harfe versetzte', 'El asalto al tren de Glasgow']","['Reparto', 'Dirección', 'Banda sonora']",7
+nm0097449,Dieter Borsche,1909,"['La gran tentación', 'Ellas somos nosotros', 'Herz der Welt', 'Vendrá un día']","['Reparto', 'Dirección', 'Guion']",3
+nm0065416,Gerhard Becker,Not found,"['Das Halstuch', 'Daphne Laureola', 'Inspektor Hornleigh greift ein...', 'Ein treuer Diener seines Herrn']",['Reparto'],0
+nm0486132,Hellmut Lange,1923,"['Das Halstuch', 'Steputat &amp; Co.', 'Seitensprünge', 'Die Lederstrumpferzählungen']","['Reparto', 'Guion', 'Equipos adicionales']",0
+nm0760709,María Eugenia San Martín,Not found,"['Las luchadoras contra la momia', 'La mano que aprieta', 'El terror de la frontera', 'La tumba']","['Reparto', 'Banda sonora']",Ma. Eugenia San Martin
+nm0728159,Carlos Riquelme,1914,"['En la tormenta', 'La malquerida', 'Un lugar llamado Milagro', 'El joven Juárez']",['Reparto'],3
+nm0324179,Héctor Godoy,1926,"['La mujer murcielago', 'La mano que aprieta', '4 contra el crimen', 'La sucesion']",['Reparto'],0
+nm0119447,Ramón Bugarini,1932,"['Las luchadoras contra la momia', 'Arañas infernales', 'Santo contra los zombies', 'La mano que aprieta']",['Reparto'],0
+nm0067279,Yerye Beirute,1926,"['La sombra vengadora', 'Invasión siniestra', 'La cámara del terror', 'Ladrón de cadáveres']",['Reparto'],0
+nm0764326,Hortensia Santoveña,1912,"['Dos mulas y una mujer', 'Talpa', 'Eugenia Grandet', 'Los marcados']",['Reparto'],2
+nm0661422,Lulú Parga,Not found,"['Una noche sin mañana', 'La marca del gavilán', 'La muerte pasa lista', 'Cuatro en la trampa']",['Reparto'],Lourdes Parga
+nm0815524,Fernando Soto,1911,"['Campeón sin corona', 'Extraña cita', 'El rayo de Jalisco', 'La presidenta municipal']",['Reparto'],1
+nm0305896,Joaquín García Vargas,Not found,"['La presidenta municipal', 'Las locuras de Tin-Tan', 'El mensaje de la muerte', 'La justicia del gavilán vengador']",['Reparto'],"Joaquin Garcia ""Borolas"""
+nm0037355,Armando Arriola,Not found,"['El zarco', 'La presidenta municipal', 'Santa Claus', 'Cazadores de espías']",['Reparto'],Armando Arriola 'Arriolita'
+nm0775245,Helmut Schreiber,Not found,"['Chingachgook, die grosse Schlange', 'Streng geheim', 'Das unsichtbare Visier', 'Stülpner-Legende']",['Reparto'],0
+nm0555657,Peter Marx,Not found,"['Anna Susanna', 'Der Raub der Sabinerinnen', 'Gaslicht', 'Musterknaben']",['Reparto'],0
+nm2643824,Norbert Flohr,Not found,"['Streng geheim', 'Kuttel', 'Schritt für Schritt']",['Reparto'],0
+nm0885971,Marion van de Kamp,Not found,"['Kabale und Liebe', 'Gaslicht', 'Gaslicht', 'Das unsichtbare Visier']",['Reparto'],1
+nm0618092,Alfred Müller,Not found,"['Mohr und die Raben von London', 'Die gläserne Fackel', 'Geheimkommando Bumerang', 'Ferienheim Bergkristall']","['Reparto', 'Edición']",1
+nm0509700,Werner Lierck,Not found,"['Das Stacheltier - Rumpelstilzchen', 'Meine Freundin Sybille', 'Der Traum des Hauptmann Loy', 'Revue um Mitternacht']","['Reparto', 'Banda sonora']",0
+nm0524699,Hans Lucke,Not found,"['Sommerwege', 'Die Leute von Züderow', 'Urlaub ohne Dich', 'Hochmut kommt vor dem Knall']","['Reparto', 'Guion', 'Dirección']",Hans Luge
+nm0657495,Ivan Palec,1933,"['Valmont', 'Zabil jsem Einsteina, panove', 'Hlavni vyhra', 'Vánice']",['Reparto'],0
+nm0353388,Eva-Maria Hagen,1934,"['Wolf unter Wölfen', 'Lore', 'Das Glas Wasser', 'Hotel du Commerce']","['Reparto', 'Música', 'Banda sonora']",0
+nm0380593,Rolf Herricht,1927,"['Maxe Baumann', 'Geliebte Weiße Maus', 'Der Weihnachtsmann heißt Willi', 'Keine Hochzeit ohne Ernst']",['Reparto'],0
+nm0598289,Yvonne Monlaur,1935,"['Las novias de Drácula', '3 straniere a Roma', 'El halcón del Caribe', 'El terror de los Tongs']",['Reparto'],0
+nm0894542,Hans Verner,1924,"['Desafío al mundo', ""Les samedis de l'histoire"", 'La travesía de París', 'La guerre des insectes']","['Reparto', 'Equipos adicionales']",0
+nm0501471,Michel Lemoine,1922,"['Cuissardes', 'Langues profondes', 'Les petites saintes y touchent', 'Neiges brûlantes']","['Reparto', 'Dirección', 'Guion']",0
+nm0435726,Jean-Pierre Kalfon,1938,"['Saint-Cyr', 'Le coup du singe', 'El grito de la lechuza', 'The Ray Bradbury Theater']","['Reparto', 'Composición', 'Dirección']",2
+nm0750103,Regine Rumen,Not found,['Le concerto de la peur'],['Reparto'],0
+nm0105319,Willy Braque,Not found,"['La secte du diable', 'Amnésie 25', ""L'enfer dans la peau"", 'Chute libre']","['Reparto', 'Dirección', 'Guion']",(causa no comunicada)
+nm0150659,Marcel Champel,Not found,"['El manantial de las colinas', 'Les cent livres des hommes', 'Les Cordier, juge et flic', 'Hamlet']",['Reparto'],Marcel Champell
+nm0746235,André Rouyer,1929,"['El planeta salvaje', 'La viuda Couderc', 'Le chien de Monsieur Michel', 'Maîtresse']","['Reparto', 'Guion']",0
+nm0557550,Jean-Claude Massoulier,Not found,"[""N'oublie pas ton père au vestiaire..."", '¿Quiere usted un bebé premio nobel?', 'Salut la puce', ""En cas de guerre mondiale, je file à l'étranger""]","['Reparto', 'Guion', 'Música']",J.-C. Massoulier
+nm0036040,Christiane Arnaud,Not found,['Le concerto de la peur'],['Reparto'],0
+nm0034301,Rosita Arenas,1933,"['Los chiflados del rock and roll', 'Los tres mosqueteros y medio', 'La momia azteca', 'La momia azteca contra el robot humano']","['Reparto', 'Música', 'Banda sonora']",0
+nm0479872,Rita Macedo,1925,"['Tú, yo, nosotros', 'Ensayo de un crimen', 'Un nuevo amanecer', 'Cambiando el destino']","['Reparto', 'Guion']",1
+nm0524468,Enrique Lucero,1917,"['Grupo salvaje', 'Los siete magníficos', 'Un largo adiós', 'Dos mulas y una mujer']",['Reparto'],1
+nm0786463,Mario Sevilla,Not found,"['El asesino invisible', 'Santo Versus la invasión de los marcianos', 'La justicia del gavilán vengador', 'La muerte es puntual']",['Reparto'],Mario Cedillo
+nm0215612,Julissa,1944,"['Isla de los muertos', 'D.F./Distrito Federal', 'Dulce desafío', 'Pedro Páramo']","['Reparto', 'Producción', 'Dirección']",1
+nm0282103,Roy Fletcher,Not found,"['Profanadores de tumbas', 'El barón Brákola', 'Atacan las brujas', 'Santo Versus la invasión de los marcianos']","['Reparto', 'Dirección de producción']",(un linfoma)
+nm0180542,Arturo Corona,Not found,"['La maldición de la Llorona', 'Piel canela', 'Herencia maldita']",['Reparto'],(un ataque al corazón)
+nm0010162,Armando Acosta,Not found,"['Blue Demon y Zovek en La invasión de los muertos', 'Operación 67', 'La tigresa', 'Los canallas']",['Reparto'],0
+nm0062159,Erna Martha Bauman,1938,"['Las troyanas', 'Los derechos de los hijos', 'La Llorona', 'La mujer marcada']",['Reparto'],Erna Marta Bauman
+nm0432465,Tito Junco,1915,"['El ángel exterminador', 'María Isabel', 'Aventurera', 'El conde de Montecristo']","['Reparto', 'Producción']",1
+nm0608916,Bertha Moss,1919,"['El ángel exterminador', 'No se mande, profe', 'Corazón salvaje', 'Cumbres borrascosas']",['Reparto'],0
+nm0013242,Carlos Agostí,1922,"['La Valentina', 'Dos corazones y un cielo', 'La escondida', 'El analfabeto']",['Reparto'],1
+nm0305918,Enrique García Álvarez,Not found,"['El ángel exterminador', 'Hasta el viento tiene miedo', 'La mujer marcada', 'Jesús de Nazareth']",['Reparto'],0
+nm0161657,José Chávez,Not found,"['Tras el corazón verde', 'Grupo salvaje', 'Los cañones de San Sebastián', 'Dos mulas y una mujer']",['Reparto'],0
+nm0273178,Fernando Fernán Gómez,1921,"['El abuelo', 'Todo sobre mi madre', 'El mar y el tiempo', 'El viaje a ninguna parte']","['Reparto', 'Guion', 'Dirección']",43
+nm8746554,Antonio Prieto,1905,"['Por un puñado de dólares', 'Melodías inolvidables', 'Rififí en la ciudad', 'Cuerda de presos']","['Reparto', 'Banda sonora']",0
+nm0544275,Robert Manuel,1916,"['Rififi', 'Las aventuras del joven Indiana Jones', 'Si Paris nous était conté', '¿Cómo ligarse a una marquesa sin ser rico?']","['Reparto', 'Equipos adicionales', 'Banda sonora']",0
+nm0898703,Maria Vincent,Not found,"[""7 donne d'oro contro due 07"", 'Subway (En busca de Freddy)', 'El enigma del clavel chino', 'Joë Caligula - Du suif chez les dabes']","['Reparto', 'Música', 'Banda sonora']",Marie Vincent
+nm0523426,Dina Loy,Not found,"['Residencia para espías', 'S077: Operación relámpago', 'Cartas boca arriba', 'Rififí en la ciudad']",['Reparto'],Dina Loys
+nm0328020,Agustín González,1930,"['Belle Epoque', 'Estudio 1', 'El abuelo', 'Las bicicletas son para el verano']","['Reparto', 'Banda sonora']",6
+nm0309013,Manuel Gas,Not found,"['La muerte llama a las 10', 'Botón de ancla', ""Metralleta 'Stein'"", 'Rififí en la ciudad']",['Reparto'],Manuel Gas Salvados
+nm0555961,Luis Marín,1932,"['La leyenda del alcalde de Zalamea', 'Rebeldes en Canadá', 'Repóker de bribones', 'En Ghentar se muere fácil']","['Reparto', 'Equipos adicionales', 'Dirección de producción']",0
+nm0000026,Cary Grant,1904,"['Con la muerte en los talones', 'Charada', 'Sospecha', 'Operación Pacífico']","['Reparto', 'Producción', 'Banda sonora']",12
+nm0000030,Audrey Hepburn,1929,"['Desayuno con diamantes', 'Vacaciones en Roma', 'Charada', 'My Fair Lady (Mi bella dama)']","['Reparto', 'Banda sonora']",25
+nm0000527,Walter Matthau,1920,"['La extraña pareja', 'Pelham 1, 2, 3', 'En bandeja de plata', 'La gran estafa']","['Reparto', 'Dirección', 'Producción']",12
+nm0000336,James Coburn,1928,"['La gran evasión', 'Charada', 'Los siete magníficos', 'La Cruz de Hierro']","['Reparto', 'Producción', 'Dirección']",10
+nm0001421,George Kennedy,1925,"['La leyenda del indomable', 'Un botín de 500.000 dólares', 'Aeropuerto', 'Agárralo como puedas 2 1/2: El aroma del miedo']","['Reparto', 'Equipos adicionales', 'Banda sonora']",6
+nm0591606,Dominique Minot,Not found,"['Charada', 'Le voyageur des siècles', 'Thomas', 'Les lettres volées']",['Reparto'],0
+nm0321982,Ned Glass,1906,"['Charada', 'West Side Story (Amor sin barreras)', 'En bandeja de plata', 'Aviso de tormenta']","['Reparto', 'Banda sonora']",1
+nm0547462,Jacques Marin,1919,"['Charada', 'Cómo robar un millón y...', 'Marathon Man', 'La isla del fin del mundo']","['Reparto', 'Equipos adicionales', 'Banda sonora']",0
+nm0094585,Paul Bonifas,1902,"['Charada', 'El tren', 'Los abismos', 'Maurin des maures']","['Reparto', 'Equipos adicionales']",0
+nm0155056,Thomas Chelimsky,Not found,['Charada'],['Reparto'],0
+nm0004570,Sunil Dutt,1929,"['Mujhe Jeene Do', 'Reshma Aur Shera', 'Munna Bhai M.B.B.S.', 'Padosan']","['Reparto', 'Producción', 'Dirección']",5
+nm0747131,Nirupa Roy,1931,"['Chhaya', 'Deewaar', 'Munimji', 'Shehnai']","['Reparto', 'Guion']",4
+nm0707398,Rajendranath Malhotra,1931,"['The Train', 'Prem Patra', 'Intaquam', 'Nafrat']","['Reparto', 'Dirección']",0
+nm0796499,Siddhu,Not found,"['Reshma Aur Shera', 'Apradh', 'Ek Musafir Ek Hasina', 'Mujhe Jeene Do']","['Reparto', 'Maquillaje', 'Sonido']",Siddu
+nm0403952,Anwar Hussain,1928,"['Sachaai', 'Faraar', 'Rafoo Chakkar', 'Rocky']",['Reparto'],0
+nm0451862,Durga Khote,1905,"['Mughal-E-Azam', 'Bidaai', 'Anand', 'Pratibha']",['Reparto'],1
+nm0097905,Tarun Bose,1928,"['Mujhe Jeene Do', 'Kohraa', 'Jaal', 'Aan Milo Sajna']",['Reparto'],Late Tarun Bose
+nm0543611,Manorama,1926,"['Caravan', 'Maha Chor', 'Biraj Bahu', 'Bahurani']",['Reparto'],2
+nm0045132,Kumari Naaz,1944,"['Boot Polish', 'Devdas', 'Ek Shola', 'Gunga Jumna']",['Reparto'],1
+nm0000125,Sean Connery,1930,"['La Roca', 'Agente 007 contra el Dr. No', 'Los intocables de Eliot Ness', 'El nombre de la rosa']","['Reparto', 'Producción', 'Dirección']",39
+nm0001727,Robert Shaw,1927,"['Tiburón', 'Un hombre para la eternidad', 'El golpe', 'Desde Rusia con amor']","['Reparto', 'Guion', 'Equipos adicionales']",4
+nm0502322,Lotte Lenya,1898,"['Desde Rusia con amor', 'La primavera romana de la Sra. Stone', 'La comedia de la vida', 'Siete años en el Tíbet']","['Reparto', 'Banda sonora']",3
+nm0000938,Daniela Bianchi,1942,"['Desde Rusia con amor', 'Todos los hermanos eran agentes', 'Mucho para vivir... poco para morir', 'Operación Lady Chaplin']",['Reparto'],1
+nm0000784,Pedro Armendáriz,1912,"['Desde Rusia con amor', 'Fort Apache', 'Tres padrinos', 'La perla']","['Reparto', 'Producción']",3
+nm0496866,Bernard Lee,1908,"['El hombre de la pistola de oro', 'Diamantes para la eternidad', 'Vive y deja morir', 'Agente 007 contra el Dr. No']","['Reparto', 'Guion']",0
+nm0311013,Eunice Gayson,1928,"['Agente 007 contra el Dr. No', 'Desde Rusia con amor', 'Melody in the Dark', 'It Happened in Soho']",['Reparto'],0
+nm0331770,Walter Gotell,1924,"['Moonraker', 'La espía que me amó', 'Panorama para matar', 'Octopussy']",['Reparto'],0
+nm0212470,Francis De Wolff,1913,"['Desde Rusia con amor', 'Moby Dick', 'El perro de Baskerville', 'Cuento de Navidad']",['Reparto'],0
+nm0664965,George Pastell,1923,"['Desde Rusia con amor', 'La momia', 'Maniac', 'Departamento S']","['Reparto', 'Equipos adicionales']",0
+nm0404665,Robert Hutton,1920,"['They Came from Beyond Space', 'Casco de acero', 'Janie Gets Married', 'Destino: Tokio']","['Reparto', 'Guion', 'Dirección']",0
+nm0233893,Sandra Dorne,1924,"['Hindle Wakes', 'Eat the Rich', ""The Beggar's Opera"", 'The House in Marsh Road']",['Reparto'],0
+nm0407810,Peter Illing,1899,"['Walk a Crooked Mile', 'La batalla del Río de la Plata', 'Cruce de destinos', 'Policía internacional']","['Reparto', 'Banda sonora']",0
+nm0021186,Peter Allenby,Not found,"['Al final de la noche', 'The Night We Dropped a Clanger', 'The Secret Door', 'Motive for Murder']",['Reparto'],0
+nm0493020,Shirley Lawrence,Not found,"['Over to William', 'Satellite in the Sky', 'The Secret Door', 'The Feminine Touch']",['Reparto'],1956
+nm0302906,Robert Gallico,Not found,"['BBC Sunday-Night Theatre', 'El hombre invisible', 'It All Goes to Show', 'The Pale Faced Girl']","['Reparto', 'Producción']",Bob Gallico
+nm0254589,Peter Elliott,Not found,"['La noche del demonio', 'Los vengadores', 'Scoop', 'BBC Play of the Month']",['Reparto'],(intervención cardiaca)
+nm0037100,Tony Arpino,Not found,"['For the Children', 'Meet Sexton Blake!', 'Dusty Bates', 'El Santo']",['Reparto'],Antonius Arpino
+nm0245982,James Dyrenforth,1895,"['La última noche del Titanic', 'Carol', 'Brooklyn', 'Lolita']","['Reparto', 'Música', 'Guion']",0
+nm0372754,May Heatherly,1942,"['Los fantasmas de Goya', 'Vampyres', 'El agente de CIPOL', 'Carlota']",['Reparto'],0
+nm0854149,Virgilio Teixeira,1917,"['El regreso de los siete magníficos', 'Simbad y la princesa', ""Fado, História d'uma Cantadeira"", 'The Bad Lord Byron']",['Reparto'],0
+nm0699909,Jesús Puente,1930,"['Novela', 'Un hacha para la luna de miel', 'El regreso de Al Capone', 'El español y los siete pecados capitales']","['Reparto', 'Equipos adicionales']",4
+nm0891631,María Vico,Not found,"['Los gozos y las sombras', 'Pena de muerte', 'El apartamento de la tentación', 'Morbo']",['Reparto'],Maria Vico
+nm0726359,José Riesgo,1919,"['La chica del gato', 'Encuentro en el abismo', 'Tristana', 'Venta de Vargas']",['Reparto'],Jose Ruiz Cortine
+nm0608180,Paco Morán,Not found,"['Estudio 1', 'Historias para no dormir', 'Matalobos', 'Muerte en primavera']","['Reparto', 'Arte', 'Equipos adicionales']",Francisco Moran
+nm0686328,Ángela Pla,Not found,"['Ursus', 'Siempre para ti', 'Ella y el miedo', 'Las de Caín']",['Reparto'],Angelita Pla
+nm0031958,Rafaela Aparicio,1906,"['Ana y los lobos', 'El mar y el tiempo', 'Mamá cumple 100 años', 'Vacaciones para Ivette']","['Reparto', 'Banda sonora']",7
+nm0479090,Luisa Rosa de la Torre,Not found,"['Ella y el miedo', 'La becerrada']",['Reparto'],0
+nm0550646,Reginald Marsh,Not found,"['Los vengadores', 'Coronation Street', 'The Plane Makers', 'Los Roper']","['Reparto', 'Guion']",0
+nm0398102,Ursula Howells,1922,"['Se anuncia un asesinato', 'Account Rendered', 'Demasiadas esposas para Patrick', 'La saga de los Forsyte']",['Reparto'],0
+nm0778808,Alex Scott,1929,"['Romper Stomper', 'Fahrenheit 451', 'El abominable Dr. Phibes', 'Martin Chuzzlewit']",['Reparto'],0
+nm0219676,Susan Denny,Not found,"['Departamento S', 'Condenados de ultratumba', 'Too Hot to Handle', 'The Sicilians']","['Reparto', 'Música']",Nicholas Anthony Spanos
+nm0044010,Robert Ayres,1914,"['La última noche del Titanic', 'Los tramposos', 'El capitán Jones', 'Delayed Action']",['Reparto'],0
+nm0688384,Eric Pohlmann,1913,"['El regreso de la pantera rosa', 'Mogambo', 'Theatergarderobe', 'Dr. Syn, Alias the Scarecrow']",['Reparto'],0
+nm0371175,Patricia Hayes,1909,"['Willow', 'La historia interminable', 'Un pez llamado Wanda', 'Seducción peligrosa']","['Reparto', 'Equipos adicionales', 'Banda sonora']",2
+nm0593803,Warren Mitchell,1926,"['The Trollenberg Terror', 'La bestia del reino', 'In Sickness and in Health', 'Cuidado con Cleopatra']","['Reparto', 'Banda sonora']",1
+nm0129634,Richard Caldicot,1908,"['Strife', 'Mrs Thursday', 'Coronation Street', 'The History of Mr. Polly']","['Reparto', 'Banda sonora']",0
+nm0837959,Barry Sullivan,1912,"['Motivo de alarma', 'Cautivos del mal', 'Terremoto', 'Terror en el espacio']","['Reparto', 'Dirección', 'Banda sonora']",2
+nm0405054,Martha Hyer,1924,"['Los cuatro hijos de Katie Elder', 'Como un torrente', 'Sabrina', 'Cintia']","['Reparto', 'Guion', 'Banda sonora']",2
+nm0603672,Sherry Moreland,1922,"['Craig Kennedy, Criminologist', 'Cohete K-1', 'Git!', 'Fury of the Congo']",['Reparto'],0
+nm0695978,Luis Prendes,1913,"['Estudio 1', 'Rey de reyes', 'Fantasía... 3', 'Alfonso X y el Reino de Murcia']","['Reparto', 'Equipos adicionales']",1
+nm0383779,Fernando Hilbeck,1933,"['Los señores del acero', 'Nostromo', 'Parranda', 'Un sudario a la medida']",['Reparto'],0
+nm0002817,Soledad Miranda,1943,"['Eugénie', 'Las Vampiras', 'Ursus', 'El diablo que vino de Akasawa']",['Reparto'],0
+nm0142976,Carlos Casaravilla,1900,"['Uncas, el fin de una raza', 'El Lazarillo de Tormes', 'Saúl y David', 'Diego de Acevedo']",['Reparto'],John Clark
+nm0548106,Marisenka,Not found,['Fuego'],['Reparto'],0
+nm0672592,Hugo Pimentel,1919,"['Una mujer sin importancia', 'La mano que aprieta', 'Estefanía', 'Papá tiene novia']",['Reparto'],0
+nm0869451,Totò,1898,"['Guardias y ladrones', 'Pajaritos y pajarracos', 'Totò a colori', 'Totò, Peppino e la... malafemmina']","['Reparto', 'Guion', 'Música']",4
+nm0212121,Pietro De Vico,Not found,"['El retorno de Maciste', 'Mi vedrai tornare', 'A sud niente di nuovo', 'Cadavere a spasso']",['Reparto'],Peter De Vico
+nm0041681,Mischa Auer,1905,"['Al servicio de las damas', 'Vive como quieras', 'Arizona', 'Mr. Arkadin']","['Reparto', 'Equipos adicionales', 'Banda sonora']",1
+nm0392796,Ivy Holzer,Not found,"['Ruta de titanes', 'Samoa, regina della giungla', 'La rebelión de los pretorianos', 'Año 79: La destrucción de Herculano']",['Reparto'],Ivi Holzer
+nm0080472,Edy Biagetti,Not found,"['Dos súper policías', 'Forajidos 77', ""Da Berlino l'apocalisse"", 'N.P. il segreto']",['Reparto'],Edgardo Biagetti
+nm0104638,Alicia Brandet,Not found,"['The Keeler Affair', 'Las cuatro muñecas', 'Llegaron los marcianos', 'Che fine ha fatto Totò baby?']",['Reparto'],0
+nm0144674,Mario Castellani,Not found,"['I pompieri di Viggiù', ""L'uomo la bestia e la virtù"", 'Noi duri', 'Totó contra Maciste']","['Reparto', 'Dirección de la segunda unidad o asistencia a dirección', 'Equipos adicionales']",Aldo Castellani
+nm0023591,Alvaro Alvisi,Not found,"['La filibusta', 'Che fine ha fatto Totò baby?', ""Come inguaiammo l'esercito"", 'Le inchieste del commissario Maigret']",['Reparto'],0
+nm0178389,Stelvio Rosi,1938,"['Anaconda', 'El gatopardo', 'Los tres mosqueteros más uno', 'Lambada']","['Reparto', 'Producción']",Stan Cooper
+nm0210150,Peppino De Martino,Not found,"['A sud niente di nuovo', 'Cerasella', 'Destinazione Sanremo', 'Don Camilo']","['Reparto', 'Equipos adicionales']",(causa no comunicada)
+nm0000489,Christopher Lee,1922,"['Star Wars: Episodio II - El ataque de los clones', 'El señor de los anillos: Las dos torres', 'El hombre de mimbre', 'El señor de los anillos: La comunidad del anillo']","['Reparto', 'Equipos adicionales', 'Producción']",33
+nm0314543,Gaia Germani,1934,"['Hércules en el centro de la Tierra', 'Bang Bang', 'The Castle of the Living Dead', 'S077: Operación relámpago']",['Reparto'],0
+nm0006573,Philippe Leroy,1930,"['El portero de noche', 'Nikita, dura de matar', 'La evasión', 'Senilidad']",['Reparto'],1
+nm0884178,Mirko Valentin,Not found,"[""Maciste nell'inferno di Gengis Khan"", 'The Castle of the Living Dead', 'The Aligator', 'Un río de dólares']",['Reparto'],0
+nm0000661,Donald Sutherland,1935,"['Los juegos del hambre: En llamas', 'Pride &amp; Prejudice (Orgullo y prejuicio)', 'Klute', 'M*A*S*H']","['Reparto', 'Producción', 'Guion']",24
+nm0210137,Antonio De Martino,Not found,"['The Castle of the Living Dead', 'Los corsarios', 'La principessa sul pisello', 'La colina de las botas']",['Reparto'],Anthony Martin
+nm0855722,Renato Terra,1922,"['El rey de Poggioreale', 'La venganza de Ivanhoe', 'La venganza de Hércules', 'Venganza siciliana']",['Reparto'],0
+nm0095084,Luigi Bonos,1910,"['El secreto de Santa Vittoria', 'La puta del rey', 'I due gattoni a nove code... e mezza ad Amsterdam', 'Y Dios dijo a Caín']",['Reparto'],0
+nm0031272,Ennio Antonelli,Not found,"['El guerrero del mundo perdido', 'Sin rival', 'La piovra', 'Una espada para el imperio']",['Reparto'],0
+nm0822268,Jacques Stany,1930,"['Maciste, gladiador de Esparta', 'Los Sueños Eróticos de Cleopatra', 'La escapada', 'Todos los caminos conducen al hombre']","['Reparto', 'Equipos adicionales', 'Guion']",0
+nm0466977,Sylva Koscina,1933,"['Hércules', 'Nido de avispas', 'Judex', 'Estambul 65']","['Reparto', 'Banda sonora']",2
+nm0266949,Sergio Fantoni,1930,"['Esther y el rey', 'El coronel Von Ryan', 'Érase una vez en América', 'Nido de avispas']","['Reparto', 'Equipos adicionales']",0
+nm0300014,Scilla Gabel,1938,"['I fuorilegge del matrimonio', '...e le stelle stanno a guardare', 'El diablo blanco', 'Modesty Blaise, superagente femenino']","['Reparto', 'Equipos adicionales']",1
+nm0597704,Sandra Mondaini,Not found,"['Casa Vianello', 'Biblioteca di Studio Uno', 'I misteri di Cascina Vianello', 'Cascina Vianello']","['Reparto', 'Equipos adicionales']",(insuficiencia respiratoria)
+nm0891492,Elsa Vazzoler,Not found,"['David Copperfield', 'Biblioteca di Studio Uno', 'Los amantes de Verona', 'La presidentessa']","['Reparto', 'Equipos adicionales']",0
+nm0612568,Francesco Mulè,Not found,"['El secreto de Santa Vittoria', 'Cuando las mujeres tenían cola', ""Lacrime d'amore"", 'Quando le donne persero la coda']","['Reparto', 'Equipos adicionales']",Francesco Mule'
+nm0879712,Toni Ucci,1922,"['Giallo club - Invito al poliziesco', 'Milano: il clan dei Calabresi', 'El Mesías', 'Cadavere per signora']","['Reparto', 'Equipos adicionales']",0
+nm0563497,Piero Mazzarella,Not found,"['Piccolo mondo antico', 'Cadavere per signora', 'Desmadre en familia', 'Il maestro di Vigevano']",['Reparto'],Pietro Mazzarella
+nm0626219,Rosalba Neri,1938,"['Esther y el rey', 'En Busca Del Placer', 'Top Sensation', 'The Arena']","['Reparto', 'Dirección de la segunda unidad o asistencia a dirección']",0
+nm0763508,Angelo Santi,Not found,"['Las brujas', 'Cadavere per signora', 'Guerra a la italiana', 'Das große Liebesspiel']",['Reparto'],Angelo Santi Amantini
+nm0445139,Andrew Keir,1926,"['Rob Roy (La pasión de un rebelde)', 'Cleopatra', '¿Qué sucedió entonces?', 'La última noche del Titanic']","['Reparto', 'Banda sonora']",0
+nm0129055,John Cairney,1930,"['Jasón y los argonautas', 'Cleopatra', 'La última noche del Titanic', 'This Man Craig']","['Reparto', 'Guion']",0
+nm0483653,Duncan Lamont,1918,"['¿Qué sucedió entonces?', 'Las aventuras de Quentin Durward', 'The Quatermass Experiment', 'Arabesco']",['Reparto'],0
+nm0728085,Michael Ripper,1913,"['La momia', 'Quatermass and the Pit', 'Butterflies', 'El poder de la sangre de Drácula']","['Reparto', 'Banda sonora']",0
+nm0163919,Ernest Clark,1912,"['Gandhi', 'The Dam Busters', 'Arabesco', 'Historia de dos ciudades']",['Reparto'],1
+nm0912728,Barry Warren,1933,"['Frankenstein creó a la mujer', 'Los vengadores', 'Los piratas del Diablo', 'Macbeth']",['Reparto'],0
+nm0267799,Suzan Farmer,1942,"['El monstruo del terror', 'Drácula, príncipe de las tinieblas', 'The Tenant of Wildfell Hall', 'The Caesars']",['Reparto'],0
+nm0701543,Natasha Pyne,Not found,"['La mujer indomable', 'Se nos ha perdido un dinosaurio', 'Los piratas del Diablo', 'Father Dear Father']",['Reparto'],0
+nm0925799,Annette Whiteley,1946,"['Los piratas del Diablo', 'Girl on Approval', 'Las ositas amarillas', 'Horror en la mansión Fordyke']",['Reparto'],1965
+nm0717086,Poul Reichhardt,1913,"['Soldaten og Jenny', 'Flagermusen', 'My Name Is Petersen', 'Støt står den danske sømand']","['Reparto', 'Dirección', 'Composición']",1
+nm0899401,Helle Virkner,Not found,"['Luces parpadeantes', 'Den kære familie', 'Huset på Christianshavn', 'My Name Is Petersen']","['Reparto', 'Banda sonora']",3
+nm0270147,Birgitte Federspiel,1925,"['El festín de Babette', 'En fremmed banker på', 'Gøngehøvdingen', 'Kat']","['Reparto', 'Banda sonora']",2
+nm0697480,Jan Priiskorn-Schmidt,Not found,"['Døden kommer til middag', 'Min søsters børn', 'Min søsters børn, når de er værst', 'Min søsters børn vælter byen']","['Reparto', 'Banda sonora']",Jan Priiskorn
+nm0344655,Morten Grunwald,1934,"['Fem mand og Rosa', 'Hvid nat', '¡Deja que te mate, Freddy!', 'Corazón silencioso']","['Reparto', 'Equipos adicionales', 'Dirección']",3
+nm0845611,Kirsten Søberg,Not found,"['Døden kommer til middag', 'Excitación rojo rubí', 'Paradis retur', 'Landmandsliv']",['Reparto'],0
+nm0825234,Karl Stegger,1913,"['Ballade på Christianshavn', 'Flagermusen', 'Matador', 'Hør, var der ikke en som lo?']","['Reparto', 'Banda sonora']",1
+nm0449490,Pouel Kern,1908,"['El festín de Babette', 'Løgneren', 'Huset på Christianshavn', 'Døden kommer til middag']",['Reparto'],0
+nm0491468,Gunnar Lauring,Not found,"['Krudt og klunker', 'Tag det som en mand', 'Qivitoq', 'Ballade i Nyhavn']",['Reparto'],1
+nm0835612,Gunnar Strømvad,Not found,"['Alle gaar rundt og forelsker sig', 'Døden kommer til middag', 'En søndag på Amager', 'Tine']",['Reparto'],0
+nm0529964,Ignacio López Tarso,1925,"['Macario', 'El Pantera', 'Rosa blanca', 'El hombre de papel']",['Reparto'],10
+nm0398430,Kitty de Hoyos,1941,"['Asesinos, S.A.', 'Aventura al centro de la tierra', 'Aventuras de las hermanas X', 'Domingo salvaje']",['Reparto'],Kity de Hoyos
+nm0253778,Evangelina Elizondo,1929,"['Un paseo por las nubes', 'Días de otoño', '¿Nos traicionará el presidente?', 'Los platillos voladores']","['Reparto', 'Música', 'Banda sonora']",1
+nm0124546,Sergio Bustamante,1934,"['El principio', 'La antorcha encendida', 'Los miserables', 'Acapulco La vida va']",['Reparto'],1
+nm0017248,Víctor Alcocer,1917,"['Misterio en las Bermudas', 'La Valentina', 'El 7 leguas', 'El proceso de Cristo']",['Reparto'],Pepe El Regañon
+nm0010502,Ricardo Adalid,Not found,"['Jesús de Nazareth', 'Chanoc en el circo union', 'México de mis recuerdos', 'Vámonos para la feria']",['Reparto'],Ricardo Adali
+nm0001998,Cyd Charisse,1922,"['La bella de Moscú', '¡Viva Las Vegas!', 'Melodías de Broadway 1955', 'Brigadoon']","['Reparto', 'Banda sonora']",3
+nm0639385,Hugh O'Brian,1925,"['El último pistolero', 'Los gemelos golpean dos veces', 'Diez negritos', 'Juego con la muerte']","['Reparto', 'Equipos adicionales', 'Banda sonora']",4
+nm0271229,Mario Feliciani,1918,"['Ottocento', 'David Copperfield', 'Ulises', 'Paese senza pace']","['Reparto', 'Equipos adicionales']",0
+nm0139214,Memmo Carotenuto,1908,"['Rufufú', 'Umberto D.', 'El bígamo', 'La ballata dei mariti']","['Reparto', 'Producción', 'Equipos adicionales']",1
+nm0316004,Franco Giacobini,1926,"['Hércules en el centro de la Tierra', 'Dos vivales en Fuerte Álamo', 'Todos los hermanos eran agentes', 'El secreto de Bill North']","['Reparto', 'Equipos adicionales']",0
+nm0167070,Alberto Closas,1921,"['Una muchachita de Valladolid', 'La fierecilla domada', 'Un tesoro en el cielo', 'Todos somos necesarios']","['Reparto', 'Dirección', 'Banda sonora']",9
+nm0501069,Philippe Lemaire,1927,"['Ciudad Baja (Downtown Heat)', 'Mon ami le cambrioleur', 'Angélica, marquesa de los ángeles', 'Maria Chapdelaine']","['Reparto', 'Dirección de producción', 'Equipos adicionales']",0
+nm0562831,Juliette Mayniel,1936,"['Los ojos sin rostro', 'Kirmes', ""Pêcheur d'Islande"", 'Los primos']",['Reparto'],1
+nm0746290,Gina Rovere,1936,"['Adua y sus amigas', 'La vida es bella', 'Catch-22 (Trampa 22)', 'Operación Popoff']",['Reparto'],1
+nm0018872,Manuel Alexandre,1917,"['Elsa &amp; Fred', 'Plácido', 'Maestros', 'Atraco a las tres']","['Reparto', 'Equipos adicionales']",10
+nm0581282,Gary Merrill,1915,"['Eva al desnudo', 'Al borde del peligro', 'Catacombs', 'La isla misteriosa']","['Reparto', 'Banda sonora']",0
+nm0581457,Jane Merrow,Not found,"['El león en invierno', 'Get Lost', ""Peter O'Toole"", 'The Haunting of Margam Castle']","['Reparto', 'Guion', 'Producción']",1
+nm0177543,Georgina Cookson,1918,"['Catacombs', 'Darling', 'Affairs of the Heart', 'Emma']",['Reparto'],0
+nm0564759,Neil McCallum,1929,"['Catacombs', 'El asedio de Pinchgut', 'Do You Know This Voice?', ""Sutherland's Law""]","['Reparto', 'Producción', 'Guion']",0
+nm0859383,Rachel Thomas,Not found,"['Catacombs', 'The Proud Valley', 'Corazón cautivo', 'Bajo el bosque lácteo']",['Reparto'],1
+nm0870681,Jack Train,1902,"['Kaleidoscope', 'King Arthur Was a Gentleman', 'Catacombs', 'Gaiety George']","['Reparto', 'Banda sonora']",0
+nm0684891,Frederick Piper,1902,"['Fly Away Peter', 'Pasaporte para Pimlico', 'Brandy for the Parson', 'Clamor de indignación']",['Reparto'],0
+nm0179516,Joaquín Cordero,1923,"['Amor en silencio', 'La madrastra', 'La risa de la ciudad', 'Las dos huerfanitas']","['Reparto', 'Banda sonora']",6
+nm0599621,Ofelia Montesco,1936,"['El ángel exterminador', 'El carruaje', 'Un hombre peligroso', 'El zurdo']","['Reparto', 'Banda sonora']",0
+nm0554830,Jorge Martínez de Hoyos,1920,"['Los siete magníficos', 'Paloma Solitaria', 'Cronos', 'Gabriel y Gabriela']","['Reparto', 'Guion']",4
+nm0138898,Alicia Caro,Not found,"['La sombra vengadora', 'La sombra vengadora vs. La mano negra', 'El tesoro de Pancho Villa', 'El charro del Cristo']",['Reparto'],0
+nm0184233,Enrique Couto,Not found,"['Cazadores de cabezas', 'Con el dedo en el gatillo', 'La maldición de Nostradamus', 'El hotel de la muerte']",['Reparto'],(un ataque al corazón)
+nm0603787,Patricia de Morelos,Not found,"['El ángel exterminador', 'La maldición de Nostradamus', 'Una vez en la noche', 'Feliz año, amor mío']",['Reparto'],0
+nm0920639,Rosalva Welter,Not found,['Cien gritos de terror'],['Reparto'],0
+nm0920637,Monica Welter,Not found,['Cien gritos de terror'],['Reparto'],0
+nm0661039,José Pardavé,Not found,"['Campeón sin corona', 'Los tres García', 'Sábado negro', 'El ratón']",['Reparto'],José Pardavé Fernández
+nm0133332,Susana Campos,1934,"['El día que me quieras', 'Leandro Leiva, un soñador', 'Rosaura a las 10', 'Dulce Ana']",['Reparto'],4
+nm0261795,Carlos Estrada,1927,"['Dos vidas y un destino', 'Los amantes de Verona', 'Los libros', 'El mar y el tiempo']","['Reparto', 'Dirección']",0
+nm0694934,José María Prada,1925,"['La caza', 'La tía Tula', 'Estudio 1', 'Teatro de siempre']","['Reparto', 'Equipos adicionales']",4
+nm0260689,Paul Eslheman,Not found,"['Crimen de doble filo', 'La batalla de las Ardenas']",['Reparto'],Paul Eshelman
+nm0737752,Alfonso Rojas,Not found,"['Marc Mato, agente S. 077', 'Operación Mogador', 'En Ghentar se muere fácil', 'Venta de Vargas']",['Reparto'],Alfonso de Rojas
+nm1677738,José Marco,Not found,"[""Mujeres al borde de un ataque de 'nervios'"", 'Uncas, el fin de una raza', 'Los amantes de Verona', 'Pánico en el Transiberiano']",['Reparto'],John Marco
+nm0346646,Emilio Rodríguez,Not found,"['La cara del terror', 'La hora del coraje', 'Crónicas de un pueblo', 'Curro Jiménez']",['Reparto'],0
+nm0704372,Héctor Quiroga,Not found,"['Residencia para espías', 'Lucky, el intrépido', 'Historias para no dormir', 'Crimen de doble filo']",['Reparto'],Hector Quiroga
+nm0258602,Erasmo Pascual,1903,"['La reina mora', 'La chica del gato', 'Juan y Junior en un mundo diferente', 'Cuando tú no estás']",['Reparto'],1
+nm0503245,Ana Bertha Lepe,1934,"['Lo que le pasó a Sansón', 'El asesino invisible', 'Barú, el hombre de la selva', 'La garra del leopardo']",['Reparto'],Ana Bertha Lepe 'Miss Mexico'
+nm0614971,Guillermo Murray,1927,"['Lazos de amor', 'Una vez, un hombre...', 'Para usted jefa', 'Siempre hay una primera vez']","['Reparto', 'Guion', 'Dirección']",1
+nm0034291,Miguel Arenas,Not found,"['La dama de las camelias', 'El conde de Montecristo', 'Don Juan Tenorio', 'El mártir del Calvario']","['Reparto', 'Guion', 'Producción']",(un ataque al corazón)
+nm0729473,Jorge Rivero,1938,"['Alerta, alta tensión', 'Operación 67', 'Los últimos hombres duros', 'La conquista de la tierra perdida (Conquest)']","['Reparto', 'Producción']",0
+nm0304884,Manuel Garay,Not found,"['El asesino invisible', 'Cazadores de espías', 'Muñecas peligrosas', 'Camino al infierno']",['Reparto'],Manuel Garay T.
+nm2006008,Mario Vega,Not found,"['El asesino invisible', 'Tres caras de mujer']",['Reparto'],0
+nm0892837,Víctor Velázquez,Not found,"['Las luchadoras contra la momia', 'El asesino invisible', 'Santo en el museo de cera', 'Diego Banderas']",['Reparto'],0
+nm0729061,Guillermo Rivas,Not found,"['Vuelve el ojo de vidrio', 'El ojo de vidrio', 'El asesino invisible', 'Los Beverly de Peralvillo']","['Reparto', 'Banda sonora']",0
+nm0916434,Robert Webber,1924,"['Doce del patíbulo', '12 hombres sin piedad', 'La batalla de Midway', 'La recluta Benjamin']","['Reparto', 'Banda sonora']",0
+nm0627963,Anthony Newlands,1925,"['Walk a Crooked Mile', 'Driveway', 'Circus of Fear', 'The Scarlet Pimpernel']",['Reparto'],0
+nm0419750,Jennifer Jayne,1931,"['The Trollenberg Terror', 'Cita con la muerte', 'They Came from Beyond Space', 'The Scarf']","['Reparto', 'Guion']",0
+nm0219062,Maurice Denham,1909,"['Chacal', 'Rebelión en la granja', 'Nicolás y Alejandra', 'Detective con rubia']",['Reparto'],1
+nm0325959,Lelia Goldoni,1936,"['Sombras', 'Alicia ya no vive aquí', 'La invasión de los ultracuerpos', 'Devil Inside']","['Reparto', 'Dirección', 'Producción']",4
+nm0940885,Peter Woodthorpe,1931,"['El señor de los anillos', 'La locura del rey Jorge', 'Las águilas azules', ""Serjeant Musgrave's Dance""]",['Reparto'],1
+nm0092479,Sandra Boize,Not found,['Hysteria'],['Reparto'],0
+nm0516145,Sue Lloyd,1939,"['Ipcress', 'Corrupción', 'El barón', 'La venganza de la Pantera Rosa']",['Reparto'],0
+nm0036031,John Arnatt,1917,"['Un desafío para Robin Hood', 'Licencia para matar', 'Cuando el viento silba', 'My Friend Charles']",['Reparto'],0
+nm0832031,Marianne Stone,1922,"['Lolita', 'Carry on Behind', 'El circo del crimen', 'Brighton Rock']","['Reparto', 'Equipos adicionales']",0
+nm0001816,Robert Vaughn,1932,"['Los siete magníficos', 'Bullitt', 'El coloso en llamas', 'Superman III']","['Reparto', 'Dirección']",3
+nm0564724,David McCallum,1933,"['La gran evasión', 'El agente de CIPOL', 'El hijo de Batman', 'Sapphire &amp; Steel']","['Reparto', 'Banda sonora']",1
+nm0001991,Leo G. Carroll,1886,"['Con la muerte en los talones', 'Extraños en un tren', 'Recuerda', 'El agente de CIPOL']",['Reparto'],2
+nm0263057,Michael Evans,1920,"['Un beso para Birdie', 'Espia con mi cara', 'El agente de CIPOL', 'Los pasajeros del tiempo']",['Reparto'],0
+nm0268331,Sharon Farrell,1940,"['No puedes comprar mi amor', 'La noche del cometa', 'McQuade, lobo solitario', 'Estoy vivo']","['Reparto', 'Banda sonora']",2
+nm0591860,Fabrizio Mioni,1930,"['Hércules', 'Espia con mi cara', 'El agente de CIPOL', 'Fiebre de codicia']",['Reparto'],0
+nm0365999,Donald Harron,1924,"['El túnel del tiempo', 'Espia con mi cara', 'Anatomía de un hospital', 'El agente de CIPOL']","['Reparto', 'Guion', 'Dirección']",1
+nm0348155,Bill Gunn,1929,"['Stop!', 'Ganja &amp; Hess', 'Espia con mi cara', 'El agente de CIPOL']","['Reparto', 'Guion', 'Dirección']",0
+nm0082515,Jennifer Billingsley,1940,"['The Thirsty Dead', 'Una mujer atrapada', 'Espia con mi cara', 'Los traficantes']",['Reparto'],0
+nm0660841,Gisia Paradís,1934,"['La IV carabela', 'Muere una mujer', 'Margarita se llama mi amor', 'La alternativa']",['Reparto'],0
+nm0087339,Tomás Blanco,1910,"['La muerte tenía un precio', '¡El santuario no se rinde!', 'Posición avanzada', 'La esclava del paraíso']","['Reparto', 'Equipos adicionales']",4
+nm0333044,Mara Goyanes,Not found,"['Historias para no dormir', 'Tiempo de amor', 'Muere una mujer', 'Periodistas']",['Reparto'],M. del Pilar Goyanes
+nm0654025,José María Oviés,Not found,"['La ruta de los narcóticos', 'Muere una mujer', 'Los farsantes', 'Un rincón para querernos']","['Equipos adicionales', 'Reparto']",0
+nm0721158,Roberto Rey,1905,"['El barbero de Sevilla', 'Un caballero de frac', 'La verbena de la Paloma', 'Fray Escoba']","['Reparto', 'Dirección', 'Guion']",0
+nm3233388,Lluís Torner,Not found,"['Estambul 65', 'Con el viento solano', 'Palabras cruzadas', 'Muere una mujer']",['Reparto'],Lluis Torner
+nm0346852,Francisco Guijar,Not found,"['Estudio 1', 'Teatro de siempre', 'Cristina Guzmán', 'Baton Rouge']",['Reparto'],Paco Guijar
+nm0181545,Juan Cortés,Not found,"['Marc Mato, agente S. 077', 'El príncipe encadenado', 'La mentira tiene cabellos rojos', 'Plomo sobre Dallas']",['Reparto'],0
+nm0130717,Florencio Calpe,Not found,"['Los culpables', 'Perros callejeros', ""Los últimos golpes de 'El Torete'"", 'La ruta de los narcóticos']",['Reparto'],Florenci Calpe
+nm0672074,Larry Pennell,1928,"['Bubba Ho-tep', 'A través del tiempo', '001, operación Caribe', 'La gran esperanza blanca']","['Reparto', 'Banda sonora']",1
+nm0771111,Margitta Scherr,1943,"['001, operación Caribe', 'Holiday in St. Tropez', 'Die Post geht ab', 'Der nächste, bitte...']",['Reparto'],0
+nm0131209,Roberto Camardiel,1917,"['Piedra de toque', 'Ensayo general para la muerte', 'La muerte tenía un precio', 'Isidro el labrador']",['Reparto'],2
+nm0884157,Barbara Valentin,1940,"['El mundo conectado', '001, operación Caribe', 'Ein Toter hing im Netz', 'Effi Briest']","['Reparto', 'Banda sonora']",1
+nm0790167,Linda Sini,1924,"['001, operación Caribe', 'Poppea al servicio del imperio', 'Angustia de silencio', 'La escapada']",['Reparto'],0
+nm0058384,John Bartha,1915,"['El bueno, el feo y el malo', '001, operación Caribe', 'Linchamiento', 'Órbita mortal']",['Reparto'],0
+nm0049673,Raf Baldassarre,1932,"['El gran silencio', '001, operación Caribe', 'Los gigantes de la Tessaglia', 'El desafío de Hércules']",['Reparto'],Raf Baldasar
+nm0029549,Nando Angelini,Not found,"['001, operación Caribe', 'Supersiete llama al Cairo', 'Crimen en la residencia', 'Hércules contra el caballero enmascarado']","['Reparto', 'Dirección de la segunda unidad o asistencia a dirección']",Nick Angel
+nm0452471,Wolfgang Kieling,1924,"['Cortina rasgada', 'Polizeirevier Davidswache', 'Jeder stirbt für sich allein', '001, operación Caribe']","['Reparto', 'Equipos adicionales', 'Dirección de la segunda unidad o asistencia a dirección']",4
+nm0364490,Brad Harris,1933,"['001, operación Caribe', 'Goliat contra los gigantes', 'Kommissar X - Drei goldene Schlangen', 'Comisario X y los tres perros verdes']","['Reparto', 'Especialistas', 'Producción']",0
